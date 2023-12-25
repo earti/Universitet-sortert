@@ -1,0 +1,2 @@
+Def:
+[[Mengde|Mengden]] av bitstrenger (eng. bit strings) eer [[Induktivt definerte mengder|induktivt definert]] som den minste mengden som er slik at $0$ og $1$ er bitstrenger, og hvis $a$ er en bitstreng, er $a0$ og $a1$ også en bitstreng.

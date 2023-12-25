@@ -1,0 +1,2 @@
+Def:
+Et bevis (eng. proof) for en påstand fra en [[Mengde|mengde]] gitte antakelser er en rekke loiske beslutninger som viser hvordan vi kommer fra antakelsene til påstanden. For hvert steg må konklusjonen være en [[Logisk konsekvens|logisk konsekvens]] av antakelsene.
