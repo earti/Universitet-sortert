@@ -1,1 +1,0 @@
-Det er kult
