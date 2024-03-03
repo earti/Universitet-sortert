@@ -1,0 +1,75 @@
+{
+  "command-palette:open": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "editor:toggle-checklist-status": [],
+  "copilot:translate-selection-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "workspace:undo-close-pane": [],
+  "workspace:close-window": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "copilot:add-custom-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "copilot:apply-custom-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ],
+  "copilot:edit-custom-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "copilot:make-longer-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "copilot:generate-glossary-prompt": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ]
+}
