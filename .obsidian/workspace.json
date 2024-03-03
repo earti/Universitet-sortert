@@ -11,8 +11,12 @@
             "id": "ea81d5f677892a6c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ny mappe for test/placeholder.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ny mappe for test/placeholder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ny mappe for test/placeholder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ny mappe for test/placeholder.md"
+              }
             }
           }
         ],
@@ -158,12 +166,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d0b9e3b921065743",
+  "active": "ea81d5f677892a6c",
   "lastOpenFiles": [
+    "Mal.md",
+    "ny mappe for test/placeholder.md",
     "README.md",
     "ny mappe for test",
     "Matte/Funksjoner/Kontinuitet.md",
-    "Mal.md",
     "Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
     "Matte/Funksjoner/Delbrøkoppspalting.md",
     "Matte/Funksjoner/Definisjon av den deriverte.md",
@@ -186,7 +195,6 @@
     "Diskret matte/Bevis/Kontrapositive bevis.md",
     "Diskret matte/Bevis/Konstruktive og ikke-konstruktive bevis.md",
     "Diskret matte/Bevis/Formodninger.md",
-    "Diskret matte/Bevis/Eksistensbevis.md",
     "Matte/Rekker",
     "Programmering/Algoritmer",
     "Programmering",
