@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ny mappe for test/placeholder.md",
+                "file": "Mal.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ny mappe for test/placeholder.md",
+                "file": "Mal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ny mappe for test/placeholder.md",
+                "file": "Mal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ny mappe for test/placeholder.md"
+                "file": "Mal.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "ea81d5f677892a6c",
   "lastOpenFiles": [
-    "Mal.md",
     "ny mappe for test/placeholder.md",
+    "Mal.md",
     "README.md",
     "ny mappe for test",
     "Matte/Funksjoner/Kontinuitet.md",
