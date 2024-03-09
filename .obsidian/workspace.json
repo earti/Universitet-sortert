@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mal.md",
+                "file": "Templates/Mal.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mal.md",
+                "file": "Templates/Mal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bc7c87081eb8fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Mal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mal.md",
+                "file": "Templates/Mal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mal.md",
+                "file": "Templates/Mal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mal.md"
+                "file": "Templates/Mal.md"
               }
             }
           }
@@ -179,15 +191,19 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "259a074baa4e0ee1",
+  "active": "9bc7c87081eb8fed",
   "lastOpenFiles": [
+    "README.md",
+    "Templates/Untitled.md",
+    "Templates/Mal.md",
+    "Programmering/Algoritmer/Heapsort x.md",
+    "Templates",
     "Diskret matte/Funksjoner/Funksjoner.md",
     "Diskret matte/Funksjoner/Funksjonstyper/Bildemengden.md",
     "Fysikk/Elektrisitet/Ny fil.md",
     "Marianne",
     "New folder",
     "conflict-files-obsidian-git.md",
-    "Programmering/Algoritmer/Heapsort x.md",
     "Diskret matte/Relasjon.md",
     "Fysikk/Magnetisme/Hva er magnetisme... x.md",
     "Fysikk/Fluidmekanikk",
@@ -196,8 +212,6 @@
     "Fysikk/Magnetisme",
     "Fysikk/Elektrisitet",
     "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/0 Formler.md",
-    "Mal.md",
-    "README.md",
     "test med ny tittel og greier.md",
     "ny mappe for test/placeholder.md",
     "ny mappe for test",
@@ -213,10 +227,8 @@
     "Diskret matte/Funksjoner/Funksjoner med flere argumenter.md",
     "Diskret matte/Funksjoner/Definisjons- og verdiområde.md",
     "Diskret matte/Funksjoner/Funksjonstyper/Surjektiv.md",
-    "Diskret matte/Funksjoner/Funksjonstyper/Injektiv.md",
     "Matte/Rekker",
     "Programmering/Algoritmer",
-    "Programmering",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
