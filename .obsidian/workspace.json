@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Mal.md"
+                "file": "Diskret matte/Bevis/Bevis.md"
               }
             }
           }
@@ -193,12 +193,18 @@
   },
   "active": "9bc7c87081eb8fed",
   "lastOpenFiles": [
-    "Diskret matte/Bevis/Bevis.md",
+    "Diskret matte/Bevis/Bevis for at noe er usant.md",
+    "Diskret matte/Bevis/Bevis for universelle påstander.md",
     "Templates/Mal.md",
-    "Diskret matte/Tallteori/Matematisk induksjon.md",
+    "Diskret matte/Bevis/Bevis.md",
+    "Diskret matte/Bevis/Moteksempler.md",
+    "Diskret matte/Bevis/Konstruktive og ikke-konstruktive bevis.md",
+    "Diskret matte/Bevis/Formodninger.md",
+    "Diskret matte/Bevis/Direkte bevis.md",
     "Diskret matte/Bevis/Bevis ved tilfeller.md",
     "Ting for å gjøre meg produktiv.md",
     "README.md",
+    "Diskret matte/Tallteori/Matematisk induksjon.md",
     "Templates/Untitled.md",
     "Programmering/Algoritmer/Heapsort x.md",
     "Templates",
@@ -221,12 +227,6 @@
     "ny mappe for test",
     "Matte/Funksjoner/Kontinuitet.md",
     "Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
-    "Matte/Funksjoner/Delbrøkoppspalting.md",
-    "Matte/Funksjoner/Definisjon av den deriverte.md",
-    "Matte/SUMSUM/Eksponentialfunksjoner og logaritmer x.md",
-    "Matte/SUMSUM/Ekstremalverdisetningen for lukkede intervaller x.md",
-    "Matte/SUMSUM/Eksistens og entydighet x.md",
-    "Matte/SUMSUM/Arbeid x.md",
     "Matte/Rekker",
     "Programmering/Algoritmer",
     "Untitled.canvas",

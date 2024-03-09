@@ -1,14 +1,14 @@
 
 ```ad-summary 
 title:
-Et bevis (eng. proof) for en påstand fra en [[Mengde|mengde]] gitte antakelser er en rekke logiske beslutninger som viser hvordan vi kommer fra antakelsene til påstanden. For hvert steg må konklusjonen være en [[Logisk konsekvens|logisk konsekvens]] av antakelsene.
+Et bevis (eng. proof) for en [[Formodninger|påstand]] fra en [[Mengde|mengde]] gitte antakelser er en rekke logiske beslutninger som viser hvordan vi kommer fra antakelsene til påstanden. For hvert steg må konklusjonen være en [[Logisk konsekvens|logisk konsekvens]] av antakelsene.
 ```
 
 Et bevis starter med kjente fakta, som aksiomer og tidligere beviste setninger, og bruker disse til å vise at en ny påstand er [[Sannhetsverdier og sannhetsverditabell|sann]]. Bevis kan være direkte (hvor vi viser at påstanden følger direkte fra de kjente fakta), indirekte (hvor vi antar at påstanden er usann og viser at dette fører til en kontradiksjon), eller konstruktive (hvor vi faktisk bygger et eksempel som viser at påstanden er sann).
 
 
 ```ad-example 
-title: Eksempel
+title: 
 $$\sum\limits_{i=0}^{n}i = \frac{n(n+1)}{2}$$
 ```
 
@@ -21,5 +21,5 @@ Dermed er påstanden også sann for $n=k+1$. Så ved induksjon, er påstanden sa
 
 ```ad-abstract
 title: Referanser
-
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.
 ```

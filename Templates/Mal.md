@@ -8,7 +8,7 @@ Skriv definisjonen din her. Inkluder en generell formel for matematikk, inkluder
 
 
 ```ad-example 
-title: Eksempel 
+title: 
 Her skriver du oppgaveeksempel og kortsvaret
 ```
 
@@ -25,5 +25,7 @@ Her skriver du forklaring til kode
 ```ad-abstract
 title: Referanser
 Her skriver du lenker og referanser videre i MLA (Modern Language Association) - 8. utgave-stil
+Disk-mat:
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
 ```
 
