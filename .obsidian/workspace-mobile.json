@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca8b79b949e3061d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ting for å gjøre meg produktiv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -144,6 +156,9 @@
   },
   "active": "5b0b35eb4ce62b9e",
   "lastOpenFiles": [
+    "Ting for å gjøre meg produktiv.md",
+    "/Mal.md",
+    "README.md",
     "Mal.md",
     "Fysikk/Elektrisitet/Ny fil.md",
     "Programmering/Algoritmer/Heapsort x.md",
