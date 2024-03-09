@@ -6,7 +6,7 @@
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,
-  "parseTitles": true,
+  "parseTitles": false,
   "dropShadow": true,
   "hideEmpty": false,
   "open": {
@@ -16,7 +16,8 @@
     "advanced": false
   },
   "icons": [
-    "octicons"
+    "octicons",
+    "rpg"
   ],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
