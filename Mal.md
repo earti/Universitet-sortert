@@ -1,4 +1,8 @@
 Def:
+```ad-summary title: 
+This is a tip 
+This is the content of the admonition tip. 
+```
 Skriv definisjonen din her. Inkluder en generell formel for matematikk, inkluder pseudokode for programmering, og inkluder en formel med variabelnavn for fysikk. Hvis det kun er en liste over regler/lover, utelat tittelen. Lister skrives med $\bullet\quad$ og det skal være en tom linje over hvis den er tittelløs og en tom linje under listen. 
 
 Eksempel:
