@@ -1,8 +1,9 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 Enhver [[Atomære utsagn|atomær formel]] er en utsagnslogisk formel (eng. propositional formula). Hvis $F$ og $G$ er utsagnslogiske formler har vi at følgende også er utsagnslogiske fomler:
 $\bullet\quad$ $\neg F$  kalles [[Negasjon x|negasjonen]] til $F$
 $\bullet\quad$ $(F\wedge G)$ kalles [[Konjunksjon x|konjuksjonen]] av $F$ og $G$. Formlene $F$ og $G$ kalles konjunkte
-$\bullet\quad$ $(F\vee G)$ kalles [[Disjunksjon x|diskjunksjonen]] av $F$ og $G$. Formlene $F$ og $G$ kalles diskonjunkte
+$\bullet\quad$ $(F\vee G)$ kalles [[Disjunksjon x|disjunksjonen]] av $F$ og $G$. Formlene $F$ og $G$ kalles diskonjunkte
 $\bullet\quad$ $(F\rightarrow G)$ kalles [[Implikasjon|implikasjonen]] mellom $F$ og $G$. 
 
 [[Mengde|Mengden]] av utsagnslogiske formler er den minste mengden $X$ slik at følgende holder:

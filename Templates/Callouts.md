@@ -1,9 +1,11 @@
 # Callouts
 > [!note]
 
-> [!abstract] Abstract, Summary, Tldr
+> [!info]
 
-> [!info] Info, Todo
+>[!tldr]
+
+> [!abstract]
 
 > [!tip] Tip, Hint, Important
 

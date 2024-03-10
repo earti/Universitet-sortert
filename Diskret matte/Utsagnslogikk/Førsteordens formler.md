@@ -1,15 +1,17 @@
-Def:
-Anta at et [[Førsteordens språk|førsteordens språk]] er gitt. [[Mengde|Mengden]] av førsteordens formler (eng.first-order formulas), eller bare formler (eng. formulas), er den minste mengden slik at:
 
+> [!abstract] %%Oppsummering%%
+Anta at et [[Førsteordens språk|førsteordens språk]] er gitt. [[Mengde|Mengden]] av førsteordens formler (eng.first-order formulas), eller bare formler (eng. formulas), er den minste mengden slik at:
 $\bullet\quad$ Alle atomære formler er formler
 $\bullet\quad$ Hvis $\varphi$ og $\psi$ er formler, er $\neg\varphi$, $(\varphi\wedge\psi)$, $(\varphi\vee\psi)$ og $(\varphi\to\psi)$ formler
 $\bullet\quad$ Hvis $\varphi$ er en formel og $x$ er en variabel, er $\forall x\varphi$ og $\exists x\varphi$ formler
 
 Alle forekomster av en variabel $x$ i $\varphi$ sies å være bundet (eng. bound) i formlene $\forall x\varphi$ og $\exists x\varphi$ og innenfor skopet (eng. scope) til den gjeldende kvantoren.
 
-Noen sammensatte førsteordens formler i det enkle språket:
 
-$Pa\wedge Px$        		$P$ er sann for $a$ og $x$                                             
+> [!example] %%Eksempel%%
+> Noen sammensatte førsteordens formler i det enkle språket:
+> 
+> $Pa\wedge Px$        		$P$ er sann for $a$ og $x$                                             
 $\exists xPx$               	Det finnes en $x$ slik at $Px$                                         
 $\forall xPx$               	For alle $x$ er det slik at $Px$                                       
 $\neg Rax$      				$a$ er ikke relatert til $x$                                           
@@ -31,6 +33,7 @@ $R$ er asymmetrisk	$\forall x \forall y(Rxy\to \neg Ryx)$
 
 [[Anti-symmetri|Anti-symmetri]] kan ikke beskrives fordi $=$ ikke er med:
 $\forall x\forall y(Rxy \to Ryx \to x = y)$
+
 
 > [!quote] %%Referanser%%
 Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.
