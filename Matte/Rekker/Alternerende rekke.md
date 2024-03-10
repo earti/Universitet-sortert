@@ -1,9 +1,10 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 En alternerende [[Rekker|rekke]] er en rekke der leddenes fortegn skifter mellom positivt og negativt. Generelt kan en slik rekke skrives som:
 $$\sum\limits_{n=1}^{\infty}(-1)^{n+1}a_n$$
 hvor $a_n > 0$ for alle $n$.
 ##### Test for konvergens
-For at en alternerende rekke skal [[Absolutt og betinget konvergens|konvergere]], må følgende to kriterier være oppfylt:
+For at en alternerende rekke skal [[Absolutt og betinget konvergens x|konvergere]], må følgende to kriterier være oppfylt:
 
 1. $\lim\limits_{n \to \infty}a_n = 0$
 2. $a_{n+1} \leq a_n$ for alle $n$ (rekken er avtagende)

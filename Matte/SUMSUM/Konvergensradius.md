@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 For en gitt [[Potensrekker x|potensrekke]] $\sum\limits_{n=0}^{\infty} a_n (x - c)^n$, er konvergensradius $R$ definert som:
 $$R = \frac{1}{\limsup\limits_{n\to\infty} \sqrt[n]{|a_n|}}$$
 hvor $\limsup$ betegner [[Grenseverdier x|grenseverdien]] for det største leddet når $n$ går mot uendelig.

@@ -1,5 +1,6 @@
-Def:
-##### Absolutt Konvergens
+
+> [!abstract] %%Oppsummering%%
+> ##### Absolutt Konvergens
 En [[Rekker|rekke]] $\sum_{n=1}^{\infty}a_n$ sies å konvergere absolutt hvis summen av de absolutte verdiene av dens ledd også konvergerer. Det vil si at
 $$\sum_{n=1}^{\infty}|a_n| < \infty$$
 Absolutt konvergens er en sterkere form for konvergens enn vanlig konvergens og har viktige implikasjoner, blant annet at rekken konvergerer uavhengig av hvordan leddene er ordnet. Dette følger av omordningssetningen.

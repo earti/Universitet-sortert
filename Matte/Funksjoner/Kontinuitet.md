@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 En [[Funksjoner|funksjon]] $f$ er kontinuerlig i et punkt $a\in D_f$ dersom:
 For enhver $\varepsilon>0$, finnes en $\delta>0$ slik at når $x\in D_f$ og $|x-a|<\delta$, så er $|f(x)-f(a)|<\varepsilon$.
 

@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 For en gitt differensialligning av formen:
 $$\frac{dy}{dx} + P(x) \cdot y = Q(x)$$
 hvor $P(x)$ og $Q(x)$ er funksjoner av $x$ alene, kan en integrerende faktor, $\mu(x)$, defineres slik at $\mu(x) = e^{\int P(x)dx}$.

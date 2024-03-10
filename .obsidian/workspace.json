@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Bevis/Bevis.md",
+                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Bevis/Bevis.md",
+                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Bevis/Bevis.md",
+                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Bevis/Bevis.md"
+                "file": "Programmering/Algoritmer/Mal for hva som må med.md"
               }
             }
           }
@@ -193,32 +193,34 @@
   },
   "active": "9bc7c87081eb8fed",
   "lastOpenFiles": [
-    "Matte/Funksjoner/Analysens fundamentalteorem.md",
-    "Matte/Følger/Førsteordens homogene diff.likninger x.md",
     "Matte/Følger/Følger.md",
+    "Programmering/Algoritmer/Mal for hva som må med.md",
+    "Matte/SUMSUM3",
+    "Matte/SUMSUM2",
     "Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
-    "Diskret matte/Bevis/Bevis for universelle påstander.md",
-    "Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
-    "Templates/Mal.md",
-    "Diskret matte/Bevis/Bevis.md",
-    "Diskret matte/Grunnleggende mengdelære/Alfabet, tegn, streng og språk.md",
-    "Diskret matte/Grunnleggende mengdelære/Komplement.md",
-    "Diskret matte/Grunnleggende mengdelære/Konkatenering.md",
-    "Diskret matte/Grunnleggende mengdelære/Liste.md",
-    "Diskret matte/Grunnleggende mengdelære/Lukket mengde.md",
-    "Diskret matte/Bevis/Eksistensbevis.md",
-    "Diskret matte/Bevis/Direkte bevis.md",
-    "Diskret matte/Bevis/Bevis ved tilfeller.md",
-    "Diskret matte/Bevis/Bevis for at noe er usant.md",
-    "Diskret matte/Relasjoner/Relasjon.md",
-    "Diskret matte/Diffie-Hellman kryptering.md",
-    "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
-    "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
-    "Diskret matte/Utsagnslogikk/Utsagn.md",
-    "Diskret matte/Utsagnslogikk/Signatur.md",
-    "Diskret matte/Utsagnslogikk/Predikat.md",
-    "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
-    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
+    "Matte/Funksjoner/Delbrøkoppspalting.md",
+    "Matte/Funksjoner/Delvis integrasjon.md",
+    "Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
+    "Matte/Funksjoner/Integrerende faktor.md",
+    "Matte/Funksjoner/Kontinuitet.md",
+    "Matte/Funksjoner/Regneregler for grenser til funksjoner.md",
+    "Matte/Grenser/Regneregler for grenseverdier.md",
+    "Matte/Grenser/Oppad begrenset.md",
+    "Matte/Grenser/Konvergens av følger.md",
+    "Matte/Grenser/Nedad begrenset.md",
+    "Matte/Grenser/Kompletthetsprinsippet.md",
+    "Matte/Rekker/Alternerende rekke.md",
+    "Matte/Rekker/Absolutt og betinget konvergens x.md",
+    "Matte/SUMSUM/Arbeid x.md",
+    "Matte/SUMSUM/Det bestemte integralet x.md",
+    "Matte/SUMSUM/Eksistens og entydighet x.md",
+    "Matte/SUMSUM/Eksponentialfunksjoner og logaritmer x.md",
+    "Matte/SUMSUM/Ekstremalverdisetningen for lukkede intervaller x.md",
+    "Matte/SUMSUM/Eulers metode x.md",
+    "Matte/SUMSUM/Globale og lokale ekstremalverdier x.md",
+    "Matte/SUMSUM/Grensesammenligningstesten x.md",
+    "Matte/SUMSUM/Grenseverdier x.md",
+    "Matte/SUMSUM/Hyperbolske funksjoner x.md",
     "Templates",
     "Marianne",
     "New folder",
@@ -227,8 +229,6 @@
     "Fysikk/Magnetisme",
     "Fysikk/Elektrisitet",
     "ny mappe for test",
-    "Matte/Rekker",
-    "Programmering/Algoritmer",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
