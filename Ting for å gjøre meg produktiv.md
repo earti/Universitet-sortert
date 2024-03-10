@@ -7,3 +7,8 @@ Table method
 Time blocking
 Kanban board for gjøremål
 Interleaved practice
+
+	[!tldr] her er masse tekstmskds,mxcn
+
+
+

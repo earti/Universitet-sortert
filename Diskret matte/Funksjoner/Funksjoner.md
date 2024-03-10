@@ -7,3 +7,6 @@ $f(x)=2x$ er funksjonen som holder alle [[Tupler|tupler]] på formen $\langle x,
 $\bullet\quad$ "_$f$ av $x$ er lik $y$_" (eng. $f$ of $x$ equals $y$)
 $\bullet\quad$ "_$f$ sender $x$ til $y$_" (eng. $f$ maps $x$ to $y$)
 $\bullet\quad$ "_$f$ anvendt på $x$ gir/returnerer $y$_" (eng. $f$ applied to $x$ gives/returns $y$).
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

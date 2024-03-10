@@ -5,3 +5,6 @@ hvor hvert element $x_i$ kommer fra mengden $X_i$. Skrivemåten $X^n$ er en fork
 
 Hvis vi tar produktet av $X$ og [[Den tomme mengden|den tomme mengden]], får vi den tomme mengden:
 $X\times \emptyset =\emptyset$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

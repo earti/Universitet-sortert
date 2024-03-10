@@ -12,3 +12,5 @@ Hvis [[Sannhetsverdier og sannhetsverditabell|sannhetsverdiene]] til $F$ og $G$ 
 | $1$ | $0$ |     $0$     |    $1$    |  $0$   |
 | $0$ | $1$ |     $0$     |    $1$    |  $1$   | 
 | $0$ | $0$ |     $0$     |    $0$    |  $1$   |
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

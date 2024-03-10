@@ -6,3 +6,6 @@ $1\mid a$, $a\mid a$ og $a \mid 0 \quad\forall a \in \mathbb{Z} \backslash \{0\}
 ###### [[Transitivitet|Transitivitet]] i divisjon
 
 Hvis $c\mid b$ og $b\mid a$, så følger $c\mid a$ 
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

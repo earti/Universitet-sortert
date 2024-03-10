@@ -7,3 +7,5 @@ Den tomme relasjonen (eng. empty relation) fra $S$ til $T$, som ikke [[Relasjon|
 | $1$ | $0$ | $0$ | $0$ |
 | $2$ | $0$ | $0$ | $0$ |
 | $3$ | $0$ | $0$ | $0$ | 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

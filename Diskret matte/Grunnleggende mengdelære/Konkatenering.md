@@ -3,3 +3,6 @@ Def:
 
 Eksempel:
 [[Alfabet, tegn, streng og språk|Språket]] $a^nba^n$ over alfabetet $\{a,b\}$ er [[Mengde|mengden]] $\{b,aba,aabaa,\ldots\}$. Vi kan beskrive dette språket som $\{a^nba^n\mid n=0,1,2\ldots\}$. Språket kan [[Induktivt definerte mengder|induktivt defineres]] som den minste mengden $S$ hvor $b\in S$ og hvis $t\in S$, så er $ata\in S$.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

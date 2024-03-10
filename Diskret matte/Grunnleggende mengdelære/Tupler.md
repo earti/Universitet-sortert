@@ -7,3 +7,6 @@ $\langle 1,2\rangle\neq\langle 2,1\rangle$
 
 Par er ikke det samme som en [[Mengde|mengde]]:
 $\langle 1,2\rangle\neq\{ 1,2\}$ 
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

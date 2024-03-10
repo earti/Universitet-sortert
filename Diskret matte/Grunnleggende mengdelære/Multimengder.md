@@ -5,3 +5,6 @@ På samme måte som for [[Mengde|mengder]], kan vi definere begreper som [[union
 
 Merk!
 Det er flere måter å definere union av multimengder på.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

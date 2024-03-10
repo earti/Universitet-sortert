@@ -31,3 +31,5 @@ $\neg\neg A\Leftrightarrow A$
 
 $A\rightarrow B\Leftrightarrow \neg A \vee B$
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

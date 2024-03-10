@@ -7,3 +7,6 @@ $\{a,b\}\cap\{c,d\}=\emptyset$
 
 Det å ta med [[Den tomme mengden|den tomme mengden]], blir den tomme mengden:
 $\{1,2,3\}\cap\emptyset=\emptyset$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

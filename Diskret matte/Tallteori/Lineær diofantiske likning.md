@@ -3,3 +3,6 @@ En lineær diofantisk likning (eng. linear Diophantine equation) er en likning p
 
 Når en lineær diofantisk likning er gitt, ønsker vi å finne ut om det finnes heltall $x$ og $y$ som får likningen til å gå opp.
 Da må $\gcd(a,b)$ være en faktor i $c$.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

@@ -5,4 +5,6 @@ Vi skriver $M\models F$ når $F$ er en logisk konsekvens av $M$.
 Eksempel
 $\{P,P\rightarrow Q\}\models Q$
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.
 

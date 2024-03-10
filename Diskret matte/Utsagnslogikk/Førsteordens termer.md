@@ -12,3 +12,6 @@ $\bullet\quad$ Postfiksnotasjon (eng. postfix notation) er å sette symbolet bak
 $\bullet\quad$ Infiksnotasjon (eng. infix notation) er å sette symbolet midten: $(x+y)$
 
 I aritmetikk og mengdelære er det naturlig å bruke infiksnotasjon.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

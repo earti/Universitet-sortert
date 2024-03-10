@@ -8,3 +8,5 @@ Eksempler på mengder
 Notasjon
 Hvis $a,b,c\ldots$ er elementer i $A$, skriver vi $a,b,c\ldots\in A$ i stedet for $a\in A,b\in A,c\in A\ldots,$ etc.
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

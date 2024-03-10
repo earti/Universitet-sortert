@@ -12,3 +12,6 @@ $\{a,b\}\subsetneq \{a,b,c\}$
 $\{a,b\}\subseteq \{a,b,c\}$
 $\{a,b,c\}\nsubseteq \{a,b\}$
 $\emptyset\subseteq \{a,b,c\}$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

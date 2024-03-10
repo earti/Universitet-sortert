@@ -10,3 +10,5 @@ $\bullet\quad$ Enhver utsagnslogisk formel er med i $X$. Disse utgjør basismeng
 $\bullet\quad$ Hvis $F$ er med i $X$, så er $\neg F$ med i $X$.
 $\bullet\quad$ Hvis $F$ og $G$ er med i $X$, er $F\wedge G$, $F\vee G$ og $F\rightarrow G$ med i $X$.
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

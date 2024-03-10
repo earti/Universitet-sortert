@@ -16,3 +16,6 @@ Dette er tullete uoversiktlig og vanskelig å lese! La oss innføre noen forkort
 $\begin{array}{rll}\emptyset&\cup&\{0\}   &=& \{0\}&=&1\in\mathcal{O}\\\{0\}&\cup&\{1\} &=&\{0,1\}&=&2\in\mathcal{O}\\\{0,1\}&\cup&\{2\}  &=&\{0,1,2\}&=& 3\in\mathcal{O}\\\{0,1,2\}&\cup&\{3\}  &=& \{0,1,2,3\}&=& 4\in\mathcal{O}\end{array}$
 
 Dette er en mengdeteoretisk måte å definere de naturlige tallene på. Ved å begynne med den tomme mengden kan vi definere de naturlige tallene. Mengder på denne formen kalles ordinaltall (eng. ordinal numbers) og er en viktig del av mengdelæren.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

@@ -10,3 +10,6 @@ $\begin{aligned}c = anv + bmu &\equiv a \cdot 1 + b \cdot 0 = a \mod m\\ c = anv
 
 Fra [[Parvis primiske likinger|parvis primiske likninger]] kan vi hente en formel or vilkårlige mange likninger:
 $x \equiv \sum\limits_{i=1}^r  a_iM_ik_i \mod M$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

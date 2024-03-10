@@ -8,3 +8,6 @@ Doble elementer fra unionen telles bare én gang.
 
 Det å ta med [[Den tomme mengden|den tomme mengden]] har ingen effekt:
 $\{1,2,3\}\cup\emptyset=\{1,2,3\}$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

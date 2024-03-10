@@ -8,3 +8,4 @@ $\varphi(n) = \prod\limits_{i=1}^r \left(p_i^{k_i} − p_i ^{k_i−1}\right)$
 $a^{\varphi(n)} \equiv 1 \mod n$ for alle naturlige tall $n$ og alle tall $a$ som er relativt primiske til $n$.
 $\varphi(1) = 1$ 
 $\varphi(n) = n − 1$ hvis og bare hvis $n$ er et primtall.
+

@@ -3,3 +3,5 @@ Def:
 $\bullet\quad$ () er en liste over $A$. Dette er den tomme listen (eng. empty list) over $A$.
 $\bullet\quad$ Hvis $x\in A$ og $L$ er en liste over $A$, er $x::L$ en liste over $A$.
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

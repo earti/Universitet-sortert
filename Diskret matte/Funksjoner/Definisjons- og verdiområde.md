@@ -7,3 +7,5 @@ $\bullet\quad$ En funksjon må sende ethvert element i definisjonsområdet til e
 Hvis en [[Relasjon|relasjon]] har disse egenskapene er det en funksjon.
 
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

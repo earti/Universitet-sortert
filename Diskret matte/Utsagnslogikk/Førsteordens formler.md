@@ -31,3 +31,6 @@ $R$ er asymmetrisk	$\forall x \forall y(Rxy\to \neg Ryx)$
 
 [[Anti-symmetri|Anti-symmetri]] kan ikke beskrives fordi $=$ ikke er med:
 $\forall x\forall y(Rxy \to Ryx \to x = y)$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

@@ -6,3 +6,5 @@ En surjektiv funksjon er en funksjon som treffer alt i [[Definisjons- og verdiom
 For å [[Bevis|bevise]] at en funksjon $f$ er surjektiv, må ethvert element $y$ i verdiområdet komme fra et element $x$ i [[Definisjons- og verdiområde|definisjonsområdet]], slik at $f(x)=y$. 
 
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

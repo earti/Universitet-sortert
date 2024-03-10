@@ -7,4 +7,5 @@ Hvis vi har en unær [[Funksjoner|funksjon]] $f$ og en mengde $M$, så er $M$ lu
 
 Mengden av [[Tallmengder|naturlige tall]] er lukket under addisjon og multiplikasjon, men ikke under subtraksjon. Den minste mengden for tillukning trenger ikke å eksistere, og da er tillukningen udefinert.
 
-
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

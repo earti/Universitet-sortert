@@ -8,3 +8,6 @@ $\{a,b\}\,\backslash\,\{c,d\}=\{a,b\}$
 Det å ta differansen med [[Den tomme mengden|den tomme mengden]] har ingen effekt:
 $\{1,2,3\}\,\backslash\,\emptyset=\{1,2,3\}$
 $\emptyset\,\backslash\,\{1,2,3\}=\emptyset$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

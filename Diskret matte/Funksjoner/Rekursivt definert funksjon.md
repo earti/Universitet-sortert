@@ -6,3 +6,6 @@ $\bullet\quad$ Rekursjonssteget (eng. recursion cap): For hvert element $x$ i $M
 
 Eksempel:
 Fibonacci-tallene
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

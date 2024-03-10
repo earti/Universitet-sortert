@@ -4,4 +4,6 @@ Dette er en tabell for noen utsagnslogiske begreper:
 | ---------------------- | ----------------- | ---------------------- |
 | for alle [[Valuasjoner\|valuasjoner]]   | $F$ er [[Tautologi Gyldighet\|gyldig]]  | $F$ er [[Motsigelse Kontradiksjon\|kontradiktorisk]] |
 | for minst én valuasjon | $F$ er  [[Oppfyllbarhet\|oppfyllbar]] | $F$ er [[Falsifiserbarhet\|falsifiserbar]]                       |
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.
 

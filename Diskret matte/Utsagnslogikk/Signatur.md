@@ -7,3 +7,6 @@ Eksempler på signaturer for [[Førsteordens språk|førsteordens språk]]:
 $\langle a; f,g;P;R\rangle$
 $\langle 0; s,+;=\rangle$
 $\langle \emptyset ; \cap,\cup;=,\in\rangle$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

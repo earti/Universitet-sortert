@@ -10,3 +10,6 @@ $\bullet\quad$ $v(F\vee G)=1$ hviss $v(F)=1$ eller $v(G)=1$
 $\bullet\quad$ $v(F\to G)=1$ hviss $v(F)=1$ impliserer $v(G)=1$ 
 
 Disse fire punktene utgjør rekursjonssteget i definisjonen.
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

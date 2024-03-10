@@ -8,3 +8,5 @@ $\{\emptyset\}$
 Potensmengden til $2$
 $\{\emptyset,\{1\},\{2\},\{1,2\}\}$
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

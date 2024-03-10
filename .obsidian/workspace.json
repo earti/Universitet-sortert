@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Mal.md",
+                "file": "Diskret matte/Bevis/Bevis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,12 +170,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Mal.md"
+                "file": "Diskret matte/Bevis/Bevis.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,40 +193,40 @@
   },
   "active": "9bc7c87081eb8fed",
   "lastOpenFiles": [
-    "Diskret matte/Bevis/Bevis ved tilfeller.md",
+    "Matte/Funksjoner/Analysens fundamentalteorem.md",
+    "Matte/Følger/Førsteordens homogene diff.likninger x.md",
+    "Matte/Følger/Følger.md",
+    "Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
     "Diskret matte/Bevis/Bevis for universelle påstander.md",
-    "Diskret matte/Bevis/Bevis for at noe er usant.md",
-    "Diskret matte/Bevis/Bevis.md",
+    "Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
     "Templates/Mal.md",
-    "Diskret matte/Bevis/Moteksempler.md",
-    "Diskret matte/Bevis/Konstruktive og ikke-konstruktive bevis.md",
-    "Diskret matte/Bevis/Formodninger.md",
+    "Diskret matte/Bevis/Bevis.md",
+    "Diskret matte/Grunnleggende mengdelære/Alfabet, tegn, streng og språk.md",
+    "Diskret matte/Grunnleggende mengdelære/Komplement.md",
+    "Diskret matte/Grunnleggende mengdelære/Konkatenering.md",
+    "Diskret matte/Grunnleggende mengdelære/Liste.md",
+    "Diskret matte/Grunnleggende mengdelære/Lukket mengde.md",
+    "Diskret matte/Bevis/Eksistensbevis.md",
     "Diskret matte/Bevis/Direkte bevis.md",
-    "Ting for å gjøre meg produktiv.md",
-    "README.md",
-    "Diskret matte/Tallteori/Matematisk induksjon.md",
-    "Templates/Untitled.md",
-    "Programmering/Algoritmer/Heapsort x.md",
+    "Diskret matte/Bevis/Bevis ved tilfeller.md",
+    "Diskret matte/Bevis/Bevis for at noe er usant.md",
+    "Diskret matte/Relasjoner/Relasjon.md",
+    "Diskret matte/Diffie-Hellman kryptering.md",
+    "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
+    "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+    "Diskret matte/Utsagnslogikk/Utsagn.md",
+    "Diskret matte/Utsagnslogikk/Signatur.md",
+    "Diskret matte/Utsagnslogikk/Predikat.md",
+    "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
+    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Templates",
-    "Diskret matte/Funksjoner/Funksjoner.md",
-    "Diskret matte/Funksjoner/Funksjonstyper/Bildemengden.md",
-    "Fysikk/Elektrisitet/Ny fil.md",
     "Marianne",
     "New folder",
-    "conflict-files-obsidian-git.md",
-    "Diskret matte/Relasjon.md",
-    "Fysikk/Magnetisme/Hva er magnetisme... x.md",
     "Fysikk/Fluidmekanikk",
     "Fysikk/Bølgefysikk",
-    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Vinkelfart.md",
     "Fysikk/Magnetisme",
     "Fysikk/Elektrisitet",
-    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/0 Formler.md",
-    "test med ny tittel og greier.md",
-    "ny mappe for test/placeholder.md",
     "ny mappe for test",
-    "Matte/Funksjoner/Kontinuitet.md",
-    "Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
     "Matte/Rekker",
     "Programmering/Algoritmer",
     "Untitled.canvas",

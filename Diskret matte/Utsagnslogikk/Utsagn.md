@@ -6,3 +6,5 @@ $\bullet\quad$ Et utsagn er noe vi kan ha kunnskap og oppfatninger om. Vi vet at
 $\bullet\quad$ Et utsagn er på mange måter uavhenig av språk og form; setningene "_det regner_" og "_it's raining_" uttrykker nøyaktig det samme utsagnet, selv om de har ulik form.
 $\bullet\quad$ Et utsagn er innholdet til en setning når den ytres i en gitt kontekst og når den utvetydig er enten sann eller usann.
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

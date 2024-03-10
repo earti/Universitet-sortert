@@ -3,3 +3,6 @@ Hvis $M$ er en [[Mengde|mengde]], og $\mathcal{U}$ er [[Den universelle mengden|
 
 $\overline{\emptyset} = \mathcal{U}$
 $\overline{\mathcal{U}} = \emptyset$
+
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

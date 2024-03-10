@@ -4,3 +4,5 @@ To [[Mengde|mengder]] $M$ og $N$ har lik kardinalitet (eng. same cardinality) hv
 Kardinalitet i uendelige mengder
 Funksjonen $f(x)=2x$ fra $\mathbb{N}$ til $2\mathbb{N}$ gir en en-til-en korrespondanse, og de har samme kardinalitet. $|\mathbb{N}|=|2\mathbb{N}|$.
 
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.

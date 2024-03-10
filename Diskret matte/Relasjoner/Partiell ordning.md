@@ -4,4 +4,5 @@ $\bullet\quad$ [[Refleksivitet|Refleksiv]]
 $\bullet\quad$ [[Transitivitet|Transitiv]]
 $\bullet\quad$ [[Anti-symmetri|Anti-symmetrisk]]
 
-
+> [!quote] %%Referanser%%
+Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014.
