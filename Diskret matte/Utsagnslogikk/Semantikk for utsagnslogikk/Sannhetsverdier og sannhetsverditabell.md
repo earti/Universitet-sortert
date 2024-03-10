@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 Vi lar $1$ og $0$ representere sannhetsverdiene (eng. truth values) sann (eng. true) og usann (eng. false)
 
 ###### Symboler for sannhetsverdiene

@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 Hvis [[Sannhetsverdier og sannhetsverditabell|sannhetsverdiene]] til $F$ og $G$ er gitt, er sannhetsverdiene til $\neg F$, $(F\wedge G)$, $(F\vee G)$ og $F\rightarrow G$ som gitt ved følgende tabeller:
 
 | $F$ | $\neg F$ |

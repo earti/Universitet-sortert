@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 En tilordning av [[Sannhetsverdier og sannhetsverditabell|sannhetsverdier]] til alle [[Utsagnslogiske formler fix plz|utsagnslogiske formler]] som er slik at [[Tolkning av utsagnslogiske formler|disse]] tabellene overholdes, kalles en valuasjon (eng. valuation).
 
 ###### [[Rekursivt definert funksjon|Rekursiv def]]:

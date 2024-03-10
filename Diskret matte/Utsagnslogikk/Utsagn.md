@@ -1,4 +1,5 @@
-Def:
+
+> [!abstract] %%Oppsummering%%
 Et utsagn (eng. propostition) er noe som kan være sant eller usant. Dette noe kan være en setning, ytring eller meningsinnholdet til slike.
 
 $\bullet\quad$ Et utsagn er det ved setninger eller ytringer som kan være sant eller usant og som har nøyaktig en av disse [[Sannhetsverdier og sannhetsverditabell|sannhetsverdiene]]. Utsagn kalles derfor ofte sannhetsbærere (eng. truth-bearers)
