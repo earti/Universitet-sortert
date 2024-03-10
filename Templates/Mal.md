@@ -1,6 +1,6 @@
 
 ```ad-summary 
-title:  
+title: Oppsummering 
 Her skriver du kortversjonen for definisjonen
 ```
 
@@ -8,7 +8,7 @@ Skriv definisjonen din her. Inkluder en generell formel for matematikk, inkluder
 
 
 ```ad-example 
-title: 
+title: Eksempel
 Her skriver du oppgaveeksempel og kortsvaret
 ```
 

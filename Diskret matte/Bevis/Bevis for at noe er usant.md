@@ -1,6 +1,6 @@
 
 ```ad-summary 
-title:  
+title: Oppsummering
 Hvis vi vil bevise at en [[Formodninger|påstand]] ikke er sann, kan vi begynne med å anta at påstanden er [[Sannhetsverdier og sannhetsverditabell|sann]], og vise til motsigelse. Dette er ikke det samme som [[Motsigelsesbevis|motsigelsesbevis]], men et [[Direkte bevis|direkte bevis]] for at noe er usant. En subtil forskjell, men en viktig en.
 ```
 
@@ -9,7 +9,7 @@ $$\begin{equation*}\begin{aligned}\neg P\\\vdots\;\\\bot\\\overline{\;P\;}\end{a
 
 
 ```ad-example 
-title: 
+title: Eksempel
 "Alle svaner er hvite" er usant, om vi finner en svart svane.
 ```
 

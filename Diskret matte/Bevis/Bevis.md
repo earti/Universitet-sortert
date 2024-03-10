@@ -1,6 +1,6 @@
 
 ```ad-summary 
-title:
+title: Oppsummering
 Et bevis (eng. proof) for en [[Formodninger|påstand]] fra en [[Mengde|mengde]] gitte antakelser er en rekke logiske beslutninger som viser hvordan vi kommer fra antakelsene til påstanden. For hvert steg må konklusjonen være en [[Logisk konsekvens|logisk konsekvens]] av antakelsene.
 ```
 
@@ -8,7 +8,7 @@ Et bevis starter med kjente fakta, som aksiomer og tidligere beviste setninger, 
 
 
 ```ad-example 
-title: 
+title: Eksempel
 $$\sum\limits_{i=0}^{n}i = \frac{n(n+1)}{2}$$
 ```
 

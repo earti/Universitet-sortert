@@ -1,6 +1,6 @@
 
 ```ad-summary 
-title:  
+title: Oppsummering
 Universelle [[Formodninger|påstander]] er påstander som sier noe om alle objekter av en bestemt type. En vanlig måte å bevise universelle påstander er å velge et vilkårlig (eng. arbitrary) objekt fra en gitt [[Mengde|mengde]] og vise at dette objektet har den ønskede egenskapen. Hvis vi skal være presise sier vi gjerne "fordi objektet var vilkårlig valgt, holder påstanden for alle objekter". 
 ```
 
@@ -8,7 +8,7 @@ Et bevis for en universell påstand starter med en påstand som gjelder alle med
 
 
 ```ad-example 
-title: 
+title: Eksempel
 $$n\leq n^{2}$$
 ```
 
