@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
+                "file": "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "155d9db363f80360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d68cb4a0cdcfc332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM3/Matriser.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +100,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -129,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
+                "file": "Matte/SUMSUM3/Matriser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Algoritmer/Mal for hva som må med.md",
+                "file": "Matte/SUMSUM3/Matriser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Algoritmer/Mal for hva som må med.md"
+                "file": "Matte/SUMSUM3/Matriser.md"
               }
             }
           }
@@ -191,10 +215,18 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "9bc7c87081eb8fed",
+  "active": "d68cb4a0cdcfc332",
   "lastOpenFiles": [
+    "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
+    "Matte/SUMSUM3/Matriser.md",
+    "Matte/SUMSUM3/Lineær algebra.md",
+    "Matte/SUMSUM3/Komplekse tall.md",
+    "Matte/SUMSUM3/Vektorer.md",
+    "Diskret matte/Funksjoner/Funksjoner.md",
+    "Diskret matte/Funksjoner/Funksjoner med flere argumenter.md",
+    "Templates/Mal.md",
+    "Templates/Mal for hva som må med.md",
     "Diskret matte/Bevis/Bevis.md",
-    "Programmering/Algoritmer/Mal for hva som må med.md",
     "Matte/Følger/Følger.md",
     "Matte/SUMSUM3",
     "Matte/SUMSUM2",
@@ -213,14 +245,6 @@
     "Matte/Rekker/Alternerende rekke.md",
     "Matte/Rekker/Absolutt og betinget konvergens x.md",
     "Matte/SUMSUM/Arbeid x.md",
-    "Matte/SUMSUM/Det bestemte integralet x.md",
-    "Matte/SUMSUM/Eksistens og entydighet x.md",
-    "Matte/SUMSUM/Eksponentialfunksjoner og logaritmer x.md",
-    "Matte/SUMSUM/Ekstremalverdisetningen for lukkede intervaller x.md",
-    "Matte/SUMSUM/Eulers metode x.md",
-    "Matte/SUMSUM/Globale og lokale ekstremalverdier x.md",
-    "Matte/SUMSUM/Grensesammenligningstesten x.md",
-    "Matte/SUMSUM/Grenseverdier x.md",
     "Templates",
     "Marianne",
     "New folder",
