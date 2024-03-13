@@ -1,6 +1,6 @@
 
 > [!abstract] %%Oppsummering%%
-Anta at et [[Førsteordens språk|førsteordens språk]] er gitt. [[Mengde|Mengden]] av førsteordens termer (eng. first-order terms), eller bare termer (eng. terms), er [[Induktivt definerte mengder|induktivt definert]] som den minste mengdenslik at enhver variabel og ethvert konstantsymbol er en term, og hvis $f$ er et [[Funksjoner|funksjons]]symbol med aritet $n$ og $t_1,\ldots,t_n$ er termer, er $f(t_1,\ldots,t_n)$ en term.
+Anta at et [[Førsteordens språk|førsteordens språk]] er gitt. [[Mengde|Mengden]] av førsteordens termer (eng. first-order terms), eller bare termer (eng. terms), er [[Induktivt definerte mengder|induktivt definert]] som den minste mengden slik at enhver variabel og ethvert konstantsymbol er en term, og hvis $f$ er et [[Funksjoner|funksjonssymbol]] med aritet $n$ og $t_1,\ldots,t_n$ er termer, er $f(t_1,\ldots,t_n)$ en term.
 
 Så lenge det er entydig og ariteten er kjent, kan vi droppe parentesene og skrive for eksempel $fa$ istedet for $f(a)$ og $gaa$ istedet for $g(a,a)$.
 

@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea81d5f677892a6c",
+            "id": "e387fc57912c4070",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Mal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "259a074baa4e0ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Mal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9bc7c87081eb8fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "155d9db363f80360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68cb4a0cdcfc332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM3/Matriser.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte/SUMSUM3/Matriser.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte/SUMSUM3/Matriser.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte/SUMSUM3/Matriser.md"
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md"
               }
             }
           }
@@ -203,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 201.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,36 +166,37 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d68cb4a0cdcfc332",
+  "active": "e387fc57912c4070",
   "lastOpenFiles": [
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av atomære formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av termer.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
     "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
+    "Diskret matte/Funksjoner/Funksjoner.md",
+    "Diskret matte/Utsagnslogikk/Førsteordens formler.md",
+    "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
+    "Diskret matte/Utsagnslogikk/Atomære og sammensatte formler.md",
+    "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
+    "Diskret matte/Utsagnslogikk/Førsteordens språk.md",
+    "Diskret matte/Utsagnslogikk/Atomære utsagn.md",
+    "Diskret matte/Relasjoner/Relasjon.md",
+    "Diskret matte/Relasjoner/Partiell ordning.md",
+    "Diskret matte/Relasjoner/Refleksivitet.md",
+    "Diskret matte/Relasjoner/Symmetri.md",
+    "Diskret matte/Relasjoner/Total ordning.md",
+    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
+    "Diskret matte/Utsagnslogikk/Predikat.md",
+    "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
+    "Diskret matte/Bevis/Struktruell induksjon.md",
+    "Diskret matte/Grunnleggende mengdelære/Liste.md",
     "Matte/SUMSUM3/Matriser.md",
     "Matte/SUMSUM3/Lineær algebra.md",
     "Matte/SUMSUM3/Komplekse tall.md",
-    "Matte/SUMSUM3/Vektorer.md",
-    "Diskret matte/Funksjoner/Funksjoner.md",
-    "Diskret matte/Funksjoner/Funksjoner med flere argumenter.md",
-    "Templates/Mal.md",
-    "Templates/Mal for hva som må med.md",
-    "Diskret matte/Bevis/Bevis.md",
-    "Matte/Følger/Følger.md",
     "Matte/SUMSUM3",
     "Matte/SUMSUM2",
-    "Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
-    "Matte/Funksjoner/Delbrøkoppspalting.md",
-    "Matte/Funksjoner/Delvis integrasjon.md",
-    "Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
-    "Matte/Funksjoner/Integrerende faktor.md",
-    "Matte/Funksjoner/Kontinuitet.md",
-    "Matte/Funksjoner/Regneregler for grenser til funksjoner.md",
-    "Matte/Grenser/Regneregler for grenseverdier.md",
-    "Matte/Grenser/Oppad begrenset.md",
-    "Matte/Grenser/Konvergens av følger.md",
-    "Matte/Grenser/Nedad begrenset.md",
-    "Matte/Grenser/Kompletthetsprinsippet.md",
-    "Matte/Rekker/Alternerende rekke.md",
-    "Matte/Rekker/Absolutt og betinget konvergens x.md",
-    "Matte/SUMSUM/Arbeid x.md",
     "Templates",
     "Marianne",
     "New folder",
@@ -252,7 +204,6 @@
     "Fysikk/Bølgefysikk",
     "Fysikk/Magnetisme",
     "Fysikk/Elektrisitet",
-    "ny mappe for test",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
