@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32b3b5a9f43ba726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecae446dd19c8085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Malx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
+                "file": "Templates/Malx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
+                "file": "Templates/Malx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md"
+                "file": "Templates/Malx.md"
               }
             }
           }
@@ -166,19 +191,24 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "e387fc57912c4070",
+  "active": "ecae446dd19c8085",
   "lastOpenFiles": [
+    "Templates/Mal.md",
+    "Templates/Malx.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
+    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av atomære formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av termer.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
+    "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
     "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
     "Diskret matte/Funksjoner/Funksjoner.md",
     "Diskret matte/Utsagnslogikk/Førsteordens formler.md",
     "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
     "Diskret matte/Utsagnslogikk/Atomære og sammensatte formler.md",
-    "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
     "Diskret matte/Utsagnslogikk/Førsteordens språk.md",
     "Diskret matte/Utsagnslogikk/Atomære utsagn.md",
     "Diskret matte/Relasjoner/Relasjon.md",
@@ -186,15 +216,10 @@
     "Diskret matte/Relasjoner/Refleksivitet.md",
     "Diskret matte/Relasjoner/Symmetri.md",
     "Diskret matte/Relasjoner/Total ordning.md",
-    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
     "Diskret matte/Utsagnslogikk/Predikat.md",
     "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
     "Diskret matte/Bevis/Struktruell induksjon.md",
-    "Diskret matte/Grunnleggende mengdelære/Liste.md",
-    "Matte/SUMSUM3/Matriser.md",
-    "Matte/SUMSUM3/Lineær algebra.md",
-    "Matte/SUMSUM3/Komplekse tall.md",
     "Matte/SUMSUM3",
     "Matte/SUMSUM2",
     "Templates",

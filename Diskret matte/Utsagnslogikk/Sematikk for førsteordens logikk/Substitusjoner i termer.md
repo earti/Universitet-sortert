@@ -1,6 +1,6 @@
 
 > [!abstract] %%Oppsummering%%
-> La $s$ og $t$ være [[Førsteordens termer|termer]] og $x$ en variabel. Da er $s[x/t]$ resultatet av å erstatte, eller substituere (eng. substituter, alle forekomster av $x$ i $s$ med $t$.
+> La $s$ og $t$ være [[Førsteordens termer|termer]] og $x$ en [[Frie variabler og lukkede formler|variabel]]. Da er $s[x/t]$ resultatet av å erstatte, eller substituere (eng. substituter, alle forekomster av $x$ i $s$ med $t$.
 
 Vi kan se for oss $[x/t]$ som en [[Funksjoner|funksjon]] som bytter ut alle $x$-er med $t$-er. En måte å gjøre det helt eksplisitt på er ved å definere en substitusjon [[Rekursivt definert funksjon|rekursivt]].
 
