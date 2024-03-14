@@ -14,3 +14,10 @@ Dette er et eksempel på en [[Rekursivt definert funksjon|rekursivt definert fun
 > $$f(b)^{\mathcal{M}}=0$$
 
 Dette er fordi $f(a)^{\mathcal{M}}=f^{\mathcal{M}}(a^{\mathcal{M}})=f^{\mathcal{M}}(3)=1$. $f(b)^{\mathcal{M}}=f^{\mathcal{M}}(b^{\mathcal{M}})=f^{\mathcal{M}}(4)=0$.
+
+
+> [!quote] %%Referanser%%
+> Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
+
+
+

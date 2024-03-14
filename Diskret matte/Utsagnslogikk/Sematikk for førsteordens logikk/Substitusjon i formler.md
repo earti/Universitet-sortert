@@ -7,3 +7,9 @@ Hvis en variabel er bundet av en kvantor, har ikke substitusjonen noen virkning 
 > [!example] %%Eksempel%%
 > $$(Pxy\wedge \forall xPxy)[x/a]=(Pay\wedge \forall xPxy)$$
 > $$(Pxy\wedge \forall xPxy)[y/a]=(Pxa\wedge \forall xPxa)$$
+
+
+> [!quote] %%Referanser%%
+> Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
+
+

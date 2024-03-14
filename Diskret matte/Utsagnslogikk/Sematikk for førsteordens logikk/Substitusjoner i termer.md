@@ -10,3 +10,9 @@ Vi kan se for oss $[x/t]$ som en [[Funksjoner|funksjon]] som bytter ut alle $x$-
 > $$f(y,y,a)[y/b]=f(b,b,a)$$
 > $$(x+y)[x/3]=3+y$$
 > $$(x+y)[y/3]=x+3$$
+
+
+> [!quote] %%Referanser%%
+> Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
+
+

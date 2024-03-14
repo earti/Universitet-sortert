@@ -7,3 +7,13 @@ $\bullet\quad$ Hvis $R$ er et [[Relasjon|relasjonssymbol]] med aritet $n$, er $R
 Vi skriver $|\mathcal{M}|$ for domenet $D$ til modellen $\mathcal{M}$.
 
 Vi leser $\circ^{\mathcal{M}}$ som "$\circ$ tolket i $\mathcal{M}$". Domenet til en modell kan ikke være tomt.
+
+
+> [!example] %%Eksempel%%
+> 
+
+
+> [!quote] %%Referanser%%
+> Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
+
+

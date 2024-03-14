@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Malx.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Malx.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Malx.md",
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Malx.md"
+                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md"
               }
             }
           }
@@ -193,16 +193,16 @@
   },
   "active": "ecae446dd19c8085",
   "lastOpenFiles": [
-    "Templates/Mal.md",
-    "Templates/Malx.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
-    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av atomære formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av termer.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
+    "Templates/Malx.md",
+    "Templates/Mal.md",
+    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
     "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
     "Diskret matte/Funksjoner/Funksjoner.md",
