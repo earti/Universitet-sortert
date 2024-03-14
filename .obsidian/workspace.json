@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e387fc57912c4070",
+            "id": "4ae6eff657f1cc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32b3b5a9f43ba726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecae446dd19c8085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md"
+                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md"
               }
             }
           }
@@ -191,17 +166,24 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ecae446dd19c8085",
+  "active": "4ae6eff657f1cc60",
   "lastOpenFiles": [
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
+    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Koordinatsystem.md",
+    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
+    "Matte/Funksjoner/Analysens fundamentalteorem.md",
+    "Matte/Funksjoner/Det bestemte integralet.md",
+    "Templates/Mal.md",
+    "Programmering/Algoritmer/Heapsort x.md",
+    "Templates/Mal for hva som må med.md",
+    "Templates/Malx.md",
+    "Fysikk/Mekanisk fysikk/SUMSUM/0 Formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av atomære formler.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av termer.md",
-    "Templates/Malx.md",
-    "Templates/Mal.md",
     "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
     "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
     "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
@@ -212,14 +194,7 @@
     "Diskret matte/Utsagnslogikk/Førsteordens språk.md",
     "Diskret matte/Utsagnslogikk/Atomære utsagn.md",
     "Diskret matte/Relasjoner/Relasjon.md",
-    "Diskret matte/Relasjoner/Partiell ordning.md",
-    "Diskret matte/Relasjoner/Refleksivitet.md",
-    "Diskret matte/Relasjoner/Symmetri.md",
-    "Diskret matte/Relasjoner/Total ordning.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
-    "Diskret matte/Utsagnslogikk/Predikat.md",
-    "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
-    "Diskret matte/Bevis/Struktruell induksjon.md",
     "Matte/SUMSUM3",
     "Matte/SUMSUM2",
     "Templates",

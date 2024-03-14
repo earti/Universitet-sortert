@@ -2,7 +2,7 @@
 > [!abstract] %%Oppsummering%%
 > Her skriver du kortversjonen for definisjonen
 
-Skriv definisjonen din her. Inkluder en generell formel for matematikk, inkluder pseudokode for programmering, og inkluder en formel med variabelnavn for fysikk. Hvis det kun er en liste over regler/lover, utelat tittelen. Lister skrives med $\bullet\quad$ og det skal være en tom linje over hvis den er tittelløs og en tom linje under listen. 
+Skriv definisjonen din her. Inkluder en generell formel for matematikk og inkluder en formel med variabelnavn for fysikk. Hvis det kun er en liste over regler/lover, utelat tittelen. Lister skrives med $\bullet\quad$ og det skal være en tom linje over hvis den er tittelløs og en tom linje under listen. 
 
 
 > [!example] %%Eksempel%%
