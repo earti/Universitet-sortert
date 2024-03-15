@@ -1,2 +1,0 @@
-Ipad
-Igjen2

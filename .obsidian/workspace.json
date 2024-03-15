@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
+                "file": "Fysikk/Elektrisitet/Ny fil.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
+                "file": "Fysikk/Elektrisitet/Ny fil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
+                "file": "Fysikk/Elektrisitet/Ny fil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md"
+                "file": "Fysikk/Elektrisitet/Ny fil.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "4ae6eff657f1cc60",
   "lastOpenFiles": [
-    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Koordinatsystem.md",
     "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
+    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Koordinatsystem.md",
     "Matte/Funksjoner/Analysens fundamentalteorem.md",
     "Matte/Funksjoner/Det bestemte integralet.md",
     "Templates/Mal.md",
