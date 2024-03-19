@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysikk/Elektrisitet/Ny fil.md",
+                "file": "Fysikk/Elektrostatikk/Elektrisk ladning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efbc437c22ab6810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysikk/Elektrostatikk/Bevaringsloven for elektrisk ladning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae3be1372f439a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fysikk/Elektrostatikk/Coulombs lov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fysikk/Elektrisitet/Ny fil.md",
+                "file": "Fysikk/Elektrostatikk/Coulombs lov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fysikk/Elektrisitet/Ny fil.md",
+                "file": "Fysikk/Elektrostatikk/Coulombs lov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fysikk/Elektrisitet/Ny fil.md"
+                "file": "Fysikk/Elektrostatikk/Coulombs lov.md"
               }
             }
           }
@@ -166,8 +191,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "4ae6eff657f1cc60",
+  "active": "ae3be1372f439a67",
   "lastOpenFiles": [
+    "Fysikk/Elektrostatikk/Elektrisk ladning.md",
+    "Fysikk/Elektrostatikk/Coulombs lov.md",
+    "Fysikk/Elektrostatikk/Bevaringsloven for elektrisk ladning.md",
+    "Templates/Malx.md",
     "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
     "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Koordinatsystem.md",
     "Matte/Funksjoner/Analysens fundamentalteorem.md",
@@ -175,7 +204,6 @@
     "Templates/Mal.md",
     "Programmering/Algoritmer/Heapsort x.md",
     "Templates/Mal for hva som må med.md",
-    "Templates/Malx.md",
     "Fysikk/Mekanisk fysikk/SUMSUM/0 Formler.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
@@ -191,9 +219,6 @@
     "Diskret matte/Utsagnslogikk/Førsteordens formler.md",
     "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
     "Diskret matte/Utsagnslogikk/Atomære og sammensatte formler.md",
-    "Diskret matte/Utsagnslogikk/Førsteordens språk.md",
-    "Diskret matte/Utsagnslogikk/Atomære utsagn.md",
-    "Diskret matte/Relasjoner/Relasjon.md",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
     "Matte/SUMSUM3",
     "Matte/SUMSUM2",
@@ -203,7 +228,7 @@
     "Fysikk/Fluidmekanikk",
     "Fysikk/Bølgefysikk",
     "Fysikk/Magnetisme",
-    "Fysikk/Elektrisitet",
+    "Fysikk/Elektrostatikk",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
