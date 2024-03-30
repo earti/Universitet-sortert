@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ae6eff657f1cc60",
+            "id": "cff4bf8ad2af577d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fysikk/Elektrostatikk/Elektrisk ladning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efbc437c22ab6810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fysikk/Elektrostatikk/Bevaringsloven for elektrisk ladning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae3be1372f439a67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ting for å gjøre meg produktiv.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 389.5
   },
   "right": {
     "id": "96d91ff246919f56",
@@ -129,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ting for å gjøre meg produktiv.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ting for å gjøre meg produktiv.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,16 +145,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ting for å gjøre meg produktiv.md"
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,44 +166,44 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ae3be1372f439a67",
+  "active": "cff4bf8ad2af577d",
   "lastOpenFiles": [
-    "Fysikk/Elektrostatikk/Coulombs lov.md",
-    "Fysikk/Elektrostatikk/Elektrisk ladning.md",
-    "Fysikk/Elektrostatikk/Bevaringsloven for elektrisk ladning.md",
-    "Templates/Malx.md",
-    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Hastighet og akselerasjon.md",
-    "Fysikk/Mekanisk fysikk/Kinematikkprinsipper/Koordinatsystem.md",
-    "Matte/Funksjoner/Analysens fundamentalteorem.md",
-    "Matte/Funksjoner/Det bestemte integralet.md",
-    "Templates/Mal.md",
-    "Programmering/Algoritmer/Heapsort x.md",
-    "Templates/Mal for hva som må med.md",
-    "Fysikk/Mekanisk fysikk/SUMSUM/0 Formler.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Lukket term.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjon i formler.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Substitusjoner i termer.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av atomære formler.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av termer.md",
-    "Diskret matte/Utsagnslogikk/Frie variabler og lukkede formler.md",
-    "Diskret matte/Utsagnslogikk/Førsteordens termer.md",
-    "Matte/SUMSUM3/Systemer av lineære ligninger i flere variable.md",
-    "Diskret matte/Funksjoner/Funksjoner.md",
-    "Diskret matte/Utsagnslogikk/Førsteordens formler.md",
-    "Diskret matte/Utsagnslogikk/Utsagnsvariabel.md",
-    "Diskret matte/Utsagnslogikk/Atomære og sammensatte formler.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorrom og basis.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorfelt.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorer.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Trappeform og redusert trappeform.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Systemer av lineære ligninger i flere variable.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Symmetri.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Stokastiske matriser.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Standardmatrise.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Sannsynlighetsvektor.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Rotasjonsmatrise.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Rom, underrom og komplekse rom.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Projeksjon på vektorer og rom.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Positivitet.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Polynomlikninger.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Pivotelement.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonalt kompliment.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonalitet.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonal matrise.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Minste kvadraters metode.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Matriser.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Markovkjede.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Linearitet.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineærtransformasjon.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineært spenn.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineærkombinasjon.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
-    "Matte/SUMSUM3",
+    "Matte/SUMSUM3 generert, ikke sjekket",
     "Matte/SUMSUM2",
     "Templates",
     "Marianne",
     "New folder",
     "Fysikk/Fluidmekanikk",
     "Fysikk/Bølgefysikk",
-    "Fysikk/Magnetisme",
-    "Fysikk/Elektrostatikk",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -1,3 +1,14 @@
+
+> [!abstract] %%Oppsummering%%
+> 
+
+> [!example] %%Eksempel%%
+> 
+
+> [!quote] %%Referanser%%
+>
+
+
 En funksjon på formen $f(x) = ax$ kan kalles lineær, mens $f(x) = ax + b$ kan kalles affin.
 
 En lineær funksjon med $n$ variable er en funksjon på formen $f(x_{1}, x_{2}, \ldots , x_{n}) = a_{1}x_{1} + a_{2}x_{2} + \ldots+ a_{n}x_{n}$, der alle $a_i$ er bestemte tall.
