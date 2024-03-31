@@ -4,6 +4,8 @@
 
 [[Mengde|Mengden]] komplekse tall kan vi visualisere som et to-dimensjonalt plan, hvor $a$ er i $x$-retning, og $b$ er i $y$-retning. Innenfor de komplekse tallene kan vi for eksempel alltid ta kvadratrøtter av hvilke som helst tall, uten å måtte tenke på om de er negative. Dette gjør at alle polymonlikninger har løsninger, disse kan være reelle eller komplekse.
 
+$n$-te rot av et tall vil alltid ha $n$ røtter
+
 
 > [!example] %%Eksempel%%
 > $$\sqrt{-4}=2i$$

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md"
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md"
               }
             }
           }
@@ -168,6 +168,18 @@
   },
   "active": "cff4bf8ad2af577d",
   "lastOpenFiles": [
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ax=b.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Konjugert.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
+    "Diskret matte/Grunnleggende mengdelære/Mengde.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
+    "Templates/Malx.md",
+    "Templates/Mal for hva som må med.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
+    "Programmering/Algoritmer/Heapsort x.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorrom og basis.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorfelt.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorer.md",
@@ -182,18 +194,6 @@
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Projeksjon på vektorer og rom.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Positivitet.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Polynomlikninger.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Pivotelement.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonalt kompliment.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonalitet.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ortogonal matrise.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Minste kvadraters metode.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Matriser.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Markovkjede.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Linearitet.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineærtransformasjon.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineært spenn.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Lineærkombinasjon.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
