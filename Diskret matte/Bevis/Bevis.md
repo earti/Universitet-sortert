@@ -6,12 +6,12 @@ Et bevis starter med kjente fakta, som aksiomer og tidligere beviste setninger, 
 
 
 > [!example] %%Eksempel%%
-$$\sum\limits_{i=0}^{n}i = \frac{n(n+1)}{2}$$
-
-Vi kan bevise dette ved [[Matematisk induksjon|induksjon]]. 
-1. For $n=1$, er påstanden sann, fordi $\frac{1\cdot1+1}{2} = 1$. 
+> $$\sum\limits_{i=0}^{n}i = \frac{n(n+1)}{2}$$
+> Vi kan bevise dette ved [[Matematisk induksjon|induksjon]]. 
+> 1. For $n=1$, er påstanden sann, fordi $\frac{1\cdot1+1}{2} = 1$. 
 2. Anta at påstanden er sann for $n=k$. Da er summen av de første $k$ tallene $\frac{k\cdot(k+1)}{2}$. 
 3. Hvis vi legger til det neste tallet, $k+1$, blir summen $\frac{k\cdot(k+1)}{2} + k+1 = \frac{(k+1)\cdot(k+2)}{2}$. 
+
 Dermed er påstanden også sann for $n=k+1$. Så ved induksjon, er påstanden sann for alle naturlige tall $n$.
 
 
