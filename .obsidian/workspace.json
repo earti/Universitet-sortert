@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md"
+                "file": "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md"
               }
             }
           }
@@ -168,6 +168,7 @@
   },
   "active": "cff4bf8ad2af577d",
   "lastOpenFiles": [
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ax=b.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Konjugert.md",
@@ -193,7 +194,6 @@
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Rom, underrom og komplekse rom.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Projeksjon på vektorer og rom.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Positivitet.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
