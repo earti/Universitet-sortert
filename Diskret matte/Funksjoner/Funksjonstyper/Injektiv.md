@@ -1,5 +1,6 @@
-Def:
-En [[Funksjoner|funksjon]] $f:A\rightarrow B$ er injektiv (eng. injective) hvis det for alle elementer $x,y\in A$ er slik at hvis $x\neq y$, så er $f(x)\neq f(y)$. Da er $f$ en injeksjon (eng. injection) og en-til-en (eng. one-to-one).
+
+> [!abstract] %%Oppsummering%%
+> En [[Funksjoner|funksjon]] $f:A\rightarrow B$ er injektiv (eng. injective) hvis det for alle elementer $x,y\in A$ er slik at hvis $x\neq y$, så er $f(x)\neq f(y)$. Da er $f$ en injeksjon (eng. injection) og en-til-en (eng. one-to-one).
 
 Injektiv betyr at to forskjellige elementer sendes til to forskjellige elementer.
 

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
+                "file": "Kvante/Klassiske tilstander.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab6a5c02c5007fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
+                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
+                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md"
+                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md"
               }
             }
           }
@@ -166,34 +179,35 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "cff4bf8ad2af577d",
+  "active": "ab6a5c02c5007fbc",
   "lastOpenFiles": [
+    "Diskret matte/Grunnleggende mengdelære/Tillukning av en binær relasjon.md",
+    "Diskret matte/Grunnleggende mengdelære/Tellbarhet.md",
+    "Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
+    "Diskret matte/Grunnleggende mengdelære/Potensmengder.md",
+    "Diskret matte/Grunnleggende mengdelære/Operasjon.md",
+    "Diskret matte/Grunnleggende mengdelære/Multimengder.md",
+    "Diskret matte/Grunnleggende mengdelære/Mengdebygger.md",
+    "Diskret matte/Grunnleggende mengdelære/Mengde.md",
+    "Diskret matte/Grunnleggende mengdelære/Lukket mengde.md",
+    "Diskret matte/Grunnleggende mengdelære/Liste.md",
+    "Diskret matte/Grunnleggende mengdelære/Konkatenering.md",
+    "Diskret matte/Grunnleggende mengdelære/Komplement.md",
+    "Diskret matte/Grunnleggende mengdelære/Kartesisk produkt.md",
+    "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
+    "Diskret matte/Grunnleggende mengdelære/Induktivt definerte mengder.md",
     "Diskret matte/Grunnleggende mengdelære/Den universelle mengden.md",
     "Diskret matte/Grunnleggende mengdelære/Den tomme mengden.md",
+    "Diskret matte/Grunnleggende mengdelære/Delmengde.md",
     "Diskret matte/Grunnleggende mengdelære/Bitstrenger.md",
     "Diskret matte/Grunnleggende mengdelære/Binært tre.md",
     "Diskret matte/Grunnleggende mengdelære/Alfabet, tegn, streng og språk.md",
-    "Diskret matte/Bevis/Bevis for at noe er usant.md",
-    "Diskret matte/Bevis/Bevis.md",
-    "Diskret matte/Grunnleggende mengdelære/Mengde.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Polarform.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Annet.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Ax=b.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Konjugert.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
-    "Templates/Malx.md",
-    "Templates/Mal for hva som må med.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
-    "Programmering/Algoritmer/Heapsort x.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorrom og basis.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorfelt.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorer.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Trappeform og redusert trappeform.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Systemer av lineære ligninger i flere variable.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Symmetri.md",
+    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Mengdedifferanse.md",
+    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
+    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Union.md",
+    "Diskret matte/Funksjoner/Sammensetning av funksjoner.md",
+    "Diskret matte/Funksjoner/Definisjons- og verdiområde.md",
+    "Kvante",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
@@ -203,7 +217,6 @@
     "Marianne",
     "New folder",
     "Fysikk/Fluidmekanikk",
-    "Fysikk/Bølgefysikk",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
