@@ -1,0 +1,1 @@
+$\vec{A}=\hat{n}\cdot A$

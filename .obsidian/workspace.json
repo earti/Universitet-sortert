@@ -13,7 +13,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvante/Klassiske tilstander.md",
+                "file": "Elektrisitet og magnetisme/Linear charge density.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed01380d6471c8c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Surface charge density.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a511e94df9ce538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Volume charge density.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "334cb316707e9eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Electric constant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf5b4325c8b19e22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Electric constant k.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8badd3eeb96916e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Electric force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fabeeb1d23c09e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Electric field.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bd8d306c86e67e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Surface vector.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57f7d03965931e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Electric flux.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -117,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md",
+                "file": "Elektrisitet og magnetisme/Electric flux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md",
+                "file": "Elektrisitet og magnetisme/Electric flux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Grunnleggende mengdelære/Tupler.md"
+                "file": "Elektrisitet og magnetisme/Electric flux.md"
               }
             }
           }
@@ -179,8 +275,20 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "ab6a5c02c5007fbc",
+  "active": "57f7d03965931e11",
   "lastOpenFiles": [
+    "Elektrisitet og magnetisme/Surface vector.md",
+    "Elektrisitet og magnetisme/Electric flux.md",
+    "Elektrisitet og magnetisme/Electric field.md",
+    "Elektrisitet og magnetisme/Electric force.md",
+    "Elektrisitet og magnetisme/Electric constant k.md",
+    "Elektrisitet og magnetisme/Electric constant.md",
+    "Elektrisitet og magnetisme/Volume charge density.md",
+    "Elektrisitet og magnetisme/Surface charge density.md",
+    "Elektrisitet og magnetisme/Linear charge density.md",
+    "Kvante/Klassiske tilstander.md",
+    "Diskret matte/Grunnleggende mengdelære/Tupler.md",
+    "Elektrisitet og magnetisme",
     "Diskret matte/Grunnleggende mengdelære/Tillukning av en binær relasjon.md",
     "Diskret matte/Grunnleggende mengdelære/Tellbarhet.md",
     "Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
@@ -196,17 +304,6 @@
     "Diskret matte/Grunnleggende mengdelære/Kartesisk produkt.md",
     "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
     "Diskret matte/Grunnleggende mengdelære/Induktivt definerte mengder.md",
-    "Diskret matte/Grunnleggende mengdelære/Den universelle mengden.md",
-    "Diskret matte/Grunnleggende mengdelære/Den tomme mengden.md",
-    "Diskret matte/Grunnleggende mengdelære/Delmengde.md",
-    "Diskret matte/Grunnleggende mengdelære/Bitstrenger.md",
-    "Diskret matte/Grunnleggende mengdelære/Binært tre.md",
-    "Diskret matte/Grunnleggende mengdelære/Alfabet, tegn, streng og språk.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Mengdedifferanse.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Union.md",
-    "Diskret matte/Funksjoner/Sammensetning av funksjoner.md",
-    "Diskret matte/Funksjoner/Definisjons- og verdiområde.md",
     "Kvante",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
@@ -216,7 +313,6 @@
     "Templates",
     "Marianne",
     "New folder",
-    "Fysikk/Fluidmekanikk",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
