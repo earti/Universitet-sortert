@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "17b68ebab3c272fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektrisitet og magnetisme/Potential gradients.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ab6a5c02c5007fbc",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -213,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrisitet og magnetisme/Electric flux.md",
+                "file": "Elektrisitet og magnetisme/Potential gradients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrisitet og magnetisme/Electric flux.md",
+                "file": "Elektrisitet og magnetisme/Potential gradients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrisitet og magnetisme/Electric flux.md"
+                "file": "Elektrisitet og magnetisme/Potential gradients.md"
               }
             }
           }
@@ -275,10 +287,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "57f7d03965931e11",
+  "active": "17b68ebab3c272fc",
   "lastOpenFiles": [
-    "Elektrisitet og magnetisme/Surface vector.md",
     "Elektrisitet og magnetisme/Electric flux.md",
+    "Elektrisitet og magnetisme/Potential gradients.md",
+    "Elektrisitet og magnetisme/Surface vector.md",
     "Elektrisitet og magnetisme/Electric field.md",
     "Elektrisitet og magnetisme/Electric force.md",
     "Elektrisitet og magnetisme/Electric constant k.md",
@@ -303,7 +316,6 @@
     "Diskret matte/Grunnleggende mengdelære/Komplement.md",
     "Diskret matte/Grunnleggende mengdelære/Kartesisk produkt.md",
     "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
-    "Diskret matte/Grunnleggende mengdelære/Induktivt definerte mengder.md",
     "Kvante",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
     "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
