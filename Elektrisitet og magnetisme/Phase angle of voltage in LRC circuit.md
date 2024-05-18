@@ -1,0 +1,1 @@
+$\phi=\arctan \left(\frac{X_{L}-X_{C}}{R}\right)$

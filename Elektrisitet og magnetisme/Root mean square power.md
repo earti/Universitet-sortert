@@ -1,0 +1,1 @@
+$P_{rms}=I_{rms}V_{rms}$

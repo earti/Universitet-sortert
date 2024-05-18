@@ -1,0 +1,1 @@
+$P_{av}=\frac{1}{2}VI\cos \phi$
