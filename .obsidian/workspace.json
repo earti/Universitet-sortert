@@ -49,14 +49,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrisitet og magnetisme/Average power general AC circuit.md",
+                "file": "Matte/SUMSUM2/8.1 Kjeglesnitt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e885ce00600227fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.2 Parametriserte kurver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "107ee177aafc38de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "436764dda320be63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "699901e82f0c50fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.4 Buelengde på parametriserte kurver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e797a89d9926de49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.5 Polar koordinater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "630b138429378561",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -141,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektrisitet og magnetisme/Average power general AC circuit.md",
+                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektrisitet og magnetisme/Average power general AC circuit.md",
+                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektrisitet og magnetisme/Average power general AC circuit.md"
+                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md"
               }
             }
           }
@@ -203,10 +275,25 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "873bbeccc96a5df7",
+  "active": "630b138429378561",
   "lastOpenFiles": [
-    "Elektrisitet og magnetisme/Power factor.md",
+    "Matte/SUMSUM2/8.5 Polar koordinater.md",
+    "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
+    "Matte/SUMSUM2/8.4 Buelengde på parametriserte kurver.md",
+    "Matte/SUMSUM2/Glatt kurve.md",
+    "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
+    "Matte/Funksjoner/Kontinuitet.md",
+    "Matte/SUMSUM2/8.2 Parametriserte kurver.md",
+    "Matte/SUMSUM/Kontinuerlige funksjoner x.md",
+    "Matte/SUMSUM2/8.1 Kjeglesnitt.md",
+    "Diskret matte/Funksjoner/Funksjoner.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorer.md",
+    "Matte/SUMSUM2/Untitled",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorrom og basis.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
     "Elektrisitet og magnetisme/Average power general AC circuit.md",
+    "Elektrisitet og magnetisme/Power factor.md",
     "Elektrisitet og magnetisme/Impedance of LRC series circuit.md",
     "Elektrisitet og magnetisme/Phase angle of voltage in LRC circuit.md",
     "Elektrisitet og magnetisme/Capacitance reactance.md",
@@ -217,20 +304,6 @@
     "Elektrisitet og magnetisme/Transformer.md",
     "Elektrisitet og magnetisme/Magnetic field in long, straight conductor.md",
     "Elektrisitet og magnetisme/Magnetic field in capacitor.md",
-    "Elektrisitet og magnetisme/Electric field magnitude.md",
-    "Elektrisitet og magnetisme/Misc.md",
-    "Elektrisitet og magnetisme/Drift velocity magnitude.md",
-    "Elektrisitet og magnetisme/Root mean square power.md",
-    "Elektrisitet og magnetisme/Wavelength and frequency.md",
-    "Elektrisitet og magnetisme/Displacement current density.md",
-    "Elektrisitet og magnetisme/Magnetic field in circular loop.md",
-    "Elektrisitet og magnetisme/Ampere's Law.md",
-    "Elektrisitet og magnetisme/Magnetic moment generated by loop.md",
-    "Elektrisitet og magnetisme/Force generated by electric field.md",
-    "Elektrisitet og magnetisme/Charging of capactor.md",
-    "Elektrisitet og magnetisme/Discharging of capasitor.md",
-    "Elektrisitet og magnetisme/Kirchoff's loop rule.md",
-    "Elektrisitet og magnetisme/Linear charge density.md",
     "Elektrisitet og magnetisme",
     "Kvante",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
@@ -240,7 +313,6 @@
     "Matte/SUMSUM2",
     "Templates",
     "Marianne",
-    "New folder",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
