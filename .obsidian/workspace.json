@@ -8,127 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cee3bbbce6e666d",
+            "id": "edeaa709fe90421d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektrisitet og magnetisme/Phase angle of voltage in LRC circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "032848415021b642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektrisitet og magnetisme/Impedance of LRC series circuit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea38eabbd5be21e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elektrisitet og magnetisme/Power factor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "873bbeccc96a5df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.1 Kjeglesnitt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e885ce00600227fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.2 Parametriserte kurver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "107ee177aafc38de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "436764dda320be63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "699901e82f0c50fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.4 Buelengde på parametriserte kurver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e797a89d9926de49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.5 Polar koordinater.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "630b138429378561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
+                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kontr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -213,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
+                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
+                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md"
+                "file": "Diskret matte/Modeller/Logisk konsekvens.md"
               }
             }
           }
@@ -263,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,10 +167,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "630b138429378561",
+  "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Matte/SUMSUM2/8.5 Polar koordinater.md",
+    "Diskret matte/Modeller/Ekvivalens.md",
+    "Diskret matte/Modeller/Logisk konsekvens.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Oppfyllbarhet.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Oppfyllbar, kontradiktorisk, gyldig og falsifiserbar.md",
+    "Diskret matte/Modeller",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Untitled.md",
+    "Templates/Malx.md",
+    "Templates/Mal.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Motsigelse Kontradiksjon.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Untitled.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
     "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
+    "Matte/SUMSUM2/8.5 Polar koordinater.md",
     "Matte/SUMSUM2/8.4 Buelengde på parametriserte kurver.md",
     "Matte/SUMSUM2/Glatt kurve.md",
     "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
@@ -294,16 +197,6 @@
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
     "Elektrisitet og magnetisme/Average power general AC circuit.md",
     "Elektrisitet og magnetisme/Power factor.md",
-    "Elektrisitet og magnetisme/Impedance of LRC series circuit.md",
-    "Elektrisitet og magnetisme/Phase angle of voltage in LRC circuit.md",
-    "Elektrisitet og magnetisme/Capacitance reactance.md",
-    "Elektrisitet og magnetisme/Inductive reactance.md",
-    "Elektrisitet og magnetisme/Electric field.md",
-    "Elektrisitet og magnetisme/Energy in capacitor.md",
-    "Elektrisitet og magnetisme/Capacitance.md",
-    "Elektrisitet og magnetisme/Transformer.md",
-    "Elektrisitet og magnetisme/Magnetic field in long, straight conductor.md",
-    "Elektrisitet og magnetisme/Magnetic field in capacitor.md",
     "Elektrisitet og magnetisme",
     "Kvante",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
@@ -312,7 +205,6 @@
     "Matte/SUMSUM3 generert, ikke sjekket",
     "Matte/SUMSUM2",
     "Templates",
-    "Marianne",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
