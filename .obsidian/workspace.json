@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
+                "file": "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
+                "file": "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Modeller/Logisk konsekvens.md",
+                "file": "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +145,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Modeller/Logisk konsekvens.md"
+                "file": "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md"
               }
+            }
+          },
+          {
+            "id": "97a06b698437d903",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,42 +176,42 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Diskret matte/Modeller/Ekvivalens.md",
-    "Diskret matte/Modeller/Logisk konsekvens.md",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Oppfyllbarhet.md",
+    "Diskret matte/Grafteori/Isomorfi.md",
+    "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
+    "Diskret matte/Grafteori/Vandringer i grafer",
+    "Untitled",
+    "Diskret matte/Grafteori/Graden til en node.md",
+    "Diskret matte/Grafteori/Komplement.md",
+    "Diskret matte/Grafteori/Komplett graf.md",
+    "Diskret matte/Grafteori/Tom graf.md",
+    "Diskret matte/Grafteori/Rettet graf.md",
+    "Diskret matte/Grafteori/Løkker og parallelle kanter.md",
+    "Diskret matte/Grafteori/Graf.md",
+    "Diskret matte/Abstrakt algebra/Gruppe.md",
+    "Diskret matte/Grafteori",
+    "Diskret matte/Grunnleggende mengdelære/Operasjon.md",
+    "Diskret matte/Abstrakt algebra/Inverse elementer.md",
+    "Diskret matte/Abstrakt algebra/Identitetselement.md",
+    "Diskret matte/Abstrakt algebra/Idempotent.md",
+    "Diskret matte/Abstrakt algebra/Assosiativ.md",
+    "Diskret matte/Abstrakt algebra/Kommutativ.md",
+    "Diskret matte/Abstrakt algebra/Invers funksjon.md",
+    "Diskret matte/Abstrakt algebra/Invers relasjon.md",
+    "Diskret matte/Relasjoner/Ekvivalensklasse.md",
+    "Diskret matte/Relasjoner/Forfining av partisjon.md",
+    "Diskret matte/Relasjoner/Partisjon.md",
+    "Diskret matte/Relasjoner/Relasjon.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Tautologi Gyldighet.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Uavhengig formel og mengde.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Tolkning av utsagnslogiske formler.md",
     "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Oppfyllbar, kontradiktorisk, gyldig og falsifiserbar.md",
-    "Diskret matte/Modeller",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Untitled.md",
-    "Templates/Malx.md",
-    "Templates/Mal.md",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Motsigelse Kontradiksjon.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Untitled.md",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Tolkning av lukkede formler.md",
-    "Matte/SUMSUM2/8.6 Areal og buelengde i polarkoordinater.md",
-    "Matte/SUMSUM2/8.5 Polar koordinater.md",
-    "Matte/SUMSUM2/8.4 Buelengde på parametriserte kurver.md",
-    "Matte/SUMSUM2/Glatt kurve.md",
-    "Matte/SUMSUM2/8.3 Stigningstall til parametriserte kurver.md",
-    "Matte/Funksjoner/Kontinuitet.md",
-    "Matte/SUMSUM2/8.2 Parametriserte kurver.md",
-    "Matte/SUMSUM/Kontinuerlige funksjoner x.md",
-    "Matte/SUMSUM2/8.1 Kjeglesnitt.md",
-    "Diskret matte/Funksjoner/Funksjoner.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorer.md",
+    "Diskret matte/Abstrakt algebra",
+    "Diskret matte/Kombinatorikk",
+    "Diskret matte/Relasjoner/Relasjonstyper",
+    "Diskret matte/Relasjoner/Modeller",
     "Matte/SUMSUM2/Untitled",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vektorrom og basis.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Vinkel mellom vektorer.md",
-    "Elektrisitet og magnetisme/Average power general AC circuit.md",
-    "Elektrisitet og magnetisme/Power factor.md",
     "Elektrisitet og magnetisme",
     "Kvante",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
-    "Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
-    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk",
-    "Matte/SUMSUM3 generert, ikke sjekket",
-    "Matte/SUMSUM2",
-    "Templates",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

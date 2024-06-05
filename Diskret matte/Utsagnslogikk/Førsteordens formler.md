@@ -26,7 +26,7 @@ $\forall x(Rxx\to Px)$	$P$ er sann for alle elementer som er relatert til seg se
 
 Velkjente egenskaper ved [[Relasjon|relasjoner]]:
 $R$ er [[Refleksivitet|refleksiv]]     		$\forall xRxx$
-$R$ er [[Diskret matte/Relasjoner/Symmetri|symmetrisk]] 		$\forall x\forall y(Rxy\to Ryx)$
+$R$ er [[Diskret matte/Relasjoner/Relasjonstyper/Symmetri|symmetrisk]] 		$\forall x\forall y(Rxy\to Ryx)$
 $R$ er [[Transitivitet|transitiv]]			$\forall x\forall y\forall z(Rxy\wedge Ryz\to Rxz)$
 $R$ er [[Irrefleksivitet|irrefleksiv]]			$\forall x\neg Rxx$
 $R$ er asymmetrisk	$\forall x \forall y(Rxy\to \neg Ryx)$
