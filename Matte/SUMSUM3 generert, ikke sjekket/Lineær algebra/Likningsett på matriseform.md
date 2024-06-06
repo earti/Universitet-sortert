@@ -26,4 +26,4 @@ Eksempel: Et eksempel på et system av lineære ligninger er:
 
 Dette kan skrives på matriseform som:
 
-[[2, 3], [4, -1]] * [x, y] = [5, 6]
+$[[2, 3], [4, -1]] * [x, y] = [5, 6]$

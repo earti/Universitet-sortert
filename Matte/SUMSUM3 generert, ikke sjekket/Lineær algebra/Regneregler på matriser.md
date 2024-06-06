@@ -22,4 +22,4 @@ Formel: Her er noen grunnleggende regneregler for matriser:
 
 Regneregler på matriser er grunnleggende for mange områder av matematikk, inkludert lineær algebra, differensialligninger, og mange andre felt.
 
-Eksempel: La A = [[1, 2], [3, 4]] og B = [[5, 6], [7, 8]]. Da er A + B = [[1+5, 2+6], [3+7, 4+8]] = [[6, 8], [10, 12]].
+Eksempel: La A =$[[1, 2], [3, 4]]$og B = $[[5, 6], [7, 8]]$. Da er $A + B = [[1+5, 2+6], [3+7, 4+8]] = [[6, 8], [10, 12]].$
