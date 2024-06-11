@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
-                "mode": "preview",
+                "file": "Kvante/Logiske porter.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
+            "file": "Kvante/Logiske porter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
+            "file": "Kvante/Logiske porter.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md"
+            "file": "Kvante/Logiske porter.md"
           }
         }
       }
@@ -144,6 +144,9 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "/Diskret matte/Formelle språk og grammatikker/Konkatenering av to språk.md",
+    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Algebraisk og geometrisk multiplisitet.md",
+    "Kvante/Logiske porter.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Symmetri.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Refleksivitet.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Transitivitet.md",
@@ -167,9 +170,6 @@
     "Diskret matte/Relasjoner/Modeller/Preneks normalform.md",
     "Diskret matte/Relasjoner/Modeller/Logisk konsekvens.md",
     "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
-    "Diskret matte/Relasjoner/Forfining av partisjon.md",
-    "Diskret matte/Relasjoner/Ekvivalensklasse.md",
-    "Diskret matte/Kombinatorikk/Systematisering av opptellingsproblemer.md",
     "Diskret matte/Relasjoner/Relasjonstyper",
     "Diskret matte/Relasjoner/Modeller",
     "Diskret matte/Kombinatorikk",
