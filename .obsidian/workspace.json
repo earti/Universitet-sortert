@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
+                "file": "Kvante/Logiske porter.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
+                "file": "Kvante/Logiske porter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
+                "file": "Kvante/Logiske porter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md"
+                "file": "Kvante/Logiske porter.md"
               }
             }
           },
@@ -176,11 +176,13 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
+    "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
+    "Kvante/Logiske porter.md",
+    "Diskret matte/Offentlig nøkkel-kryptering x.md",
     "Diskret matte/Formelle språk og grammatikker/Tillukningen av et språk.md",
     "Diskret matte/Formelle språk og grammatikker/Regulært uttrykk.md",
     "Diskret matte/Formelle språk og grammatikker/Regulært språk.md",
     "Diskret matte/Formelle språk og grammatikker/Konkatenering av to språk.md",
-    "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
     "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
     "Diskret matte/Formelle språk og grammatikker",
     "a, b], [c, d.md",
@@ -203,8 +205,6 @@
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori/Graden til en node.md",
     "Diskret matte/Grafteori/Komplement.md",
-    "Diskret matte/Grafteori/Komplett graf.md",
-    "Diskret matte/Grafteori/Tom graf.md",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
     "Diskret matte/Kombinatorikk",
