@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvante/Logiske porter.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kvante/Logiske porter.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kvante/Logiske porter.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kvante/Logiske porter.md"
+                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md"
               }
             }
           },
@@ -176,6 +176,9 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
+    "Diskret matte/Formelle språk og grammatikker/Formell grammatikk.md",
+    "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
+    "Diskret matte/Formelle språk og grammatikker/Deterministisk, endelig tilstandsmaskin.md",
     "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
     "Kvante/Logiske porter.md",
     "Diskret matte/Offentlig nøkkel-kryptering x.md",
@@ -201,10 +204,7 @@
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Likningsett på matriseform.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Diagonaliserbarhet.md",
-    "Diskret matte/Grafteori/Isomorfi.md",
     "Diskret matte/Grafteori/Vandringer i grafer",
-    "Diskret matte/Grafteori/Graden til en node.md",
-    "Diskret matte/Grafteori/Komplement.md",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
     "Diskret matte/Kombinatorikk",
