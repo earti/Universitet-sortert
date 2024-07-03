@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
+                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Utledninger.md"
+                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md"
               }
             }
           },
@@ -176,10 +176,13 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Diskret matte/Formelle språk og grammatikker/Regulært språk.md",
-    "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
-    "Diskret matte/Formelle språk og grammatikker/Formell grammatikk.md",
     "Diskret matte/Formelle språk og grammatikker/Deterministisk, endelig tilstandsmaskin.md",
+    "Diskret matte/Formelle språk og grammatikker/Formell grammatikk.md",
+    "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
+    "Diskret matte/Formelle språk og grammatikker/Regulær grammatikk.md",
+    "Templates/Malx.md",
+    "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
+    "Diskret matte/Formelle språk og grammatikker/Regulært språk.md",
     "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
     "Kvante/Logiske porter.md",
     "Diskret matte/Offentlig nøkkel-kryptering x.md",
@@ -201,9 +204,6 @@
     "Diskret matte/Grafteori/Vandringer i grafer/Kretser og sykler.md",
     "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
     "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Determinant.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Likningsett på matriseform.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Diagonaliserbarhet.md",
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
