@@ -1,3 +1,7 @@
+---
+tags:
+  - Definisjon
+---
 
 > [!abstract] %%Oppsummering%%
 > En funksjon (eng. function) fra $A$ til $B$ er en binær [[Relasjon|relasjon]] $f$ fra $A$ til $B$ slik at for enhver $x\in A$, er det nøyaktig ett element $y\in B$ slik at $\langle x,y\rangle \in f$. Vi skriver $f(x)=y$ når $\langle x,y\rangle\in f$. I dette tilfellet kaller vi $x$ for argumentet (eng. argument) og $f(x)$ for verdien (eng. value) til funksjonen. Vi skriver $f:A\rightarrow B$ for funksjonen $f$ når den er en funksjon fra $A$ til $B$. En funksjon på $A$ er en funksjon fra $A$ til $A$. 
