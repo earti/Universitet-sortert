@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
+                "file": "Diskret matte/Tallteori/Minste felles multiplum (LCM).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kontr",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
+                "file": "Diskret matte/Tallteori/Minste felles multiplum (LCM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
+                "file": "Diskret matte/Tallteori/Minste felles multiplum (LCM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md"
+                "file": "Diskret matte/Tallteori/Minste felles multiplum (LCM).md"
               }
             }
           },
@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,9 +176,25 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
+    "Diskret matte/Tallteori/Lineærkombinasjon.md",
+    "Diskret matte/Tallteori/Lineær diofantiske likning.md",
+    "Diskret matte/Tallteori/Største felles divisor (GCD).md",
+    "Diskret matte/Tallteori/Relativt primiske tall.md",
+    "Diskret matte/Tallteori/Primtall.md",
+    "Diskret matte/Tallteori/Heltallsdivisjon.md",
+    "Diskret matte/Tallteori/Kongruenser.md",
+    "Diskret matte/Tallteori/Delbarhet.md",
+    "Diskret matte/Abstrakt algebra/Gruppe.md",
+    "Diskret matte/Bevis/Sunnhet og kompletthet.md",
+    "Diskret matte/Bevis/Konsistent teori.md",
+    "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+    "Diskret matte/Utsagnslogikk/Førsteordens formler.md",
+    "Diskret matte/Bevis/Utledbarhet.md",
+    "Diskret matte/Bevis/Utledninger og bevis.md",
+    "Diskret matte/Bevis/Bevis.md",
+    "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
     "Diskret matte/Formelle språk og grammatikker/Deterministisk, endelig tilstandsmaskin.md",
     "Diskret matte/Formelle språk og grammatikker/Formell grammatikk.md",
-    "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
     "Diskret matte/Formelle språk og grammatikker/Regulær grammatikk.md",
     "Templates/Malx.md",
     "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
@@ -186,24 +202,8 @@
     "Diskret matte/Formelle språk og grammatikker/Tolkning av regulære uttrykk.md",
     "Kvante/Logiske porter.md",
     "Diskret matte/Offentlig nøkkel-kryptering x.md",
-    "Diskret matte/Formelle språk og grammatikker/Tillukningen av et språk.md",
-    "Diskret matte/Formelle språk og grammatikker/Regulært uttrykk.md",
-    "Diskret matte/Formelle språk og grammatikker/Konkatenering av to språk.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
     "Diskret matte/Formelle språk og grammatikker",
-    "a, b], [c, d.md",
-    "Diskret matte/Grunnleggende mengdelære/Alfabet, tegn, streng og språk.md",
     "Untitled",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Union.md",
-    "Diskret matte/Tallteori/Kongruenser.md",
-    "Diskret matte/Utsagnslogikk/Førsteordens språk.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Untitled.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Eulervei og -krets.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Tre.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Sammenhengende graf.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Kretser og sykler.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Vandringer og stier.md",
-    "Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Determinant.md",
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
