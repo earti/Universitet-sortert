@@ -1,6 +1,11 @@
 
 > [!abstract] %%Oppsummering%%
-> 
+> 1. Start med det første elementet: Anta at det første elementet i listen allerede er sortert.
+> 2. Ta det neste elementet: Velg det neste elementet i listen og sammenlign det med elementene i den sorterte delen.
+> 3. Flytt elementer: Flytt elementene i den sorterte delen som er større enn det valgte elementet ett sted til høyre.
+> 4. Sett inn elementet: Sett inn det valgte elementet på riktig plass i den sorterte delen.
+> 5. Gjenta: Gjenta trinn 2-4 for hvert av de gjenværende usorterte elementene.
+
 
 > [!warning] %%Begrensninger%%
 
