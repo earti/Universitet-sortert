@@ -9,6 +9,7 @@
 > [!warning] %%Begrensninger%%
 
 ``` python
+A = [3,4,6,1,7,8]
 i = 1
 while i < length(A):
     j = i
