@@ -1,6 +1,4 @@
 
-> [!info] %%Kjøretid%%
-
 > [!abstract] %%Oppsummering%%
 > 
 
@@ -9,6 +7,8 @@
 ``` python
 Kode
 ```
+
+> [!info] %%Kjøretid%%
 
 > [!success] %%Fordeler%%
 

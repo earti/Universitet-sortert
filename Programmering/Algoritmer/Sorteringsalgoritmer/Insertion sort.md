@@ -19,5 +19,8 @@ while i < length(A):
 > [!info] %%Kjøretid og annen info%%
 
 > [!success] %%Fordeler%%
+> $\bullet\quad$ Enkel implementasjon
+> $\bullet\quad$ [[Online|Online]]
+> $\bullet\quad$ [](Online.md)$\bullet\quad$ [](På-stedet.md)md)il]]
 
 > [!failure] %%Ulemper%%

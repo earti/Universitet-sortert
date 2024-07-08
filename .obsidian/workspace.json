@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Algoritmer/Insertion sort.md",
+                "file": "Templates/Hva som må med i Algdat.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Algoritmer/Insertion sort.md",
+                "file": "Templates/Hva som må med i Algdat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Algoritmer/Insertion sort.md",
+                "file": "Templates/Hva som må med i Algdat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Algoritmer/Insertion sort.md"
+                "file": "Templates/Hva som må med i Algdat.md"
               }
             }
           },
@@ -176,9 +176,17 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Diskret matte/Funksjoner/Funksjoner.md",
-    "Programmering/Algoritmer/Insertion sort.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+    "Programmering/Datastrukturer",
+    "Programmering/Info, må fullføres senere/Stabil.md",
+    "Programmering/Info, må fullføres senere/På-stedet.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Proxmap sort.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer",
+    "Programmering/Info, må fullføres senere/Online.md",
+    "Programmering/Info, må fullføres senere",
     "Templates/Algoritme.md",
+    "Diskret matte/Funksjoner/Funksjoner.md",
     "Templates/Callouts.md",
     "Templates/Definisjoner.md",
     "Templates/Mal.md",
@@ -197,21 +205,12 @@
     "Diskret matte/Utsagnslogikk/Symbolers betydning/Antivalens x.md",
     "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Sammenhenger mellom begreper x.md",
     "Diskret matte/Relasjoner/Modeller/Teorier, aksiomer og teoremer.md",
-    "Diskret matte/Relasjoner/Modeller/Preneks normalform.md",
-    "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Union.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
-    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Mengdedifferanse.md",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Sannhetsverdier og sannhetsverditabell.md",
     "Diskret matte/Formelle språk og grammatikker",
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
     "Diskret matte/Kombinatorikk",
     "Diskret matte/Relasjoner/Relasjonstyper",
-    "Diskret matte/Relasjoner/Modeller",
-    "Matte/SUMSUM2/Untitled",
-    "Uferdige notater/Elektrisitet og magnetisme",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
