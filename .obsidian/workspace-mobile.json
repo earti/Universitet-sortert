@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kvante/Logiske porter.md",
+                "file": "Templates/Algoritme.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Kvante/Logiske porter.md",
+            "file": "Templates/Algoritme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Kvante/Logiske porter.md",
+            "file": "Templates/Algoritme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Kvante/Logiske porter.md"
+            "file": "Templates/Algoritme.md"
           }
         }
       }
@@ -144,41 +144,41 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
-    "Diskret matte/Tallteori/Kvadratfrie tall.md",
-    "Diskret matte/Formelle språk og grammatikker/Utledninger.md",
-    "Diskret matte/Formelle språk og grammatikker/Regulær grammatikk.md",
-    "Diskret matte/Formelle språk og grammatikker/Kontekstfri grammatikk.md",
-    "Diskret matte/Formelle språk og grammatikker/Formell grammatikk.md",
-    "Diskret matte/Formelle språk og grammatikker/Deterministisk, endelig tilstandsmaskin.md",
-    "Diskret matte/Bevis/Utledninger og bevis.md",
-    "Diskret matte/Bevis/Utledbarhet.md",
-    "Diskret matte/Bevis/Sunnhet og kompletthet.md",
-    "Diskret matte/Bevis/Konsistent teori.md",
-    "/Templates/Malx.md",
-    "/Diskret matte/Tallteori/Største felles divisor (GCD).md",
-    "/Diskret matte/Tallteori/Relativt primiske tall.md",
-    "/Diskret matte/Tallteori/Primtall.md",
-    "/Diskret matte/Tallteori/Modulære inverser.md",
-    "/Diskret matte/Tallteori/Minste felles multiplum (LCM).md",
-    "/Diskret matte/Tallteori/Lineærkombinasjon.md",
-    "/Diskret matte/Tallteori/Lineær diofantiske likning.md",
-    "/Diskret matte/Tallteori/Kvadratfrie tall.md",
-    "/Diskret matte/Tallteori/Kongruenser.md",
-    "/Diskret matte/Tallteori/Heltallsdivisjon.md",
-    "/Diskret matte/Tallteori/Eulers φ-funksjon.md",
-    "/Diskret matte/Tallteori/Diskrete logaritmer.md",
-    "/Diskret matte/Tallteori/Delbarhet.md",
-    "/Diskret matte/Funksjoner/Funksjoner.md",
-    "/Diskret matte/Formelle språk og grammatikker/Utledninger.md",
-    "Diskret matte/Relasjoner/Relasjonstyper",
-    "Diskret matte/Relasjoner/Modeller",
-    "Diskret matte/Kombinatorikk",
-    "Diskret matte/Grafteori/Vandringer i grafer",
-    "Diskret matte/Grafteori",
-    "Diskret matte/Formelle språk og grammatikker",
-    "Diskret matte/Abstrakt algebra",
-    "/Diskret matte/Relasjoner/Relasjonstyper",
-    "/Diskret matte/Relasjoner/Modeller",
-    "/Diskret matte/Kombinatorikk"
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Likningsett på matriseform.md",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Diagonaliserbarhet.md",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Determinant.md",
+    "Uferdige notater/Matte/Funksjoner/Buelengde.md",
+    "Uferdige notater/Matte/Rekker/Rekker.md",
+    "Uferdige notater/Matte/Rekker/Forholdstesten.md",
+    "Uferdige notater/Matte/Følger/Følger.md",
+    "Uferdige notater/Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
+    "Uferdige notater/Matte/Funksjoner/Regneregler for grenser til funksjoner.md",
+    "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
+    "Uferdige notater/Matte/Funksjoner/Delvis integrasjon.md",
+    "Uferdige notater/Matte/Funksjoner/Delbrøkoppspalting.md",
+    "Uferdige notater/Matte/Funksjoner/Definisjon av den deriverte.md",
+    "Uferdige notater/Matte/Funksjoner/Arealet mellom to kurver.md",
+    "Uferdige notater/Matte/Funksjoner/Areal av omdreiningsflater.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Vinkelfart.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Ulike krefter x.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Sentripetalakselerasjonen.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter/Newtons lover.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter/Newtons gravitasjonslov.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Sirkelbevegelse.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Kastebevegelse uten luftmotstand.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Kastebevegelse med luftmotstand.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Friksjon.md",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM",
+    "Uferdige notater/Fysikk/Mekanisk fysikk/Kinematikkprinsipper",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket",
+    "Uferdige notater/Matte/SUMSUM2",
+    "Uferdige notater/Matte/SUMSUM",
+    "Uferdige notater/Matte/Rekker"
   ]
 }
