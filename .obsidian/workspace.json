@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Hva som må med i Algdat.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Hva som må med i Algdat.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Hva som må med i Algdat.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Hva som må med i Algdat.md"
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md"
               }
             }
           },
@@ -174,23 +174,23 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edeaa709fe90421d",
+  "active": "d0b9e3b921065743",
   "lastOpenFiles": [
+    "Templates/Algoritme.md",
+    "Templates/Hva som må med i Algdat.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Programmering/Datastrukturer",
-    "Programmering/Info, må fullføres senere/Stabil.md",
-    "Programmering/Info, må fullføres senere/På-stedet.md",
+    "Uferdige notater/Info, må fullføres senere/Stabil.md",
+    "Uferdige notater/Info, må fullføres senere/På-stedet.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Proxmap sort.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
-    "Programmering/Info, må fullføres senere/Online.md",
-    "Programmering/Info, må fullføres senere",
-    "Templates/Algoritme.md",
+    "Uferdige notater/Info, må fullføres senere/Online.md",
+    "Uferdige notater/Info, må fullføres senere",
     "Diskret matte/Funksjoner/Funksjoner.md",
     "Templates/Callouts.md",
     "Templates/Definisjoner.md",
     "Templates/Mal.md",
-    "Templates/Hva som må med i Algdat.md",
     "Uferdige notater/Kvante/Dirac-notasjon.md",
     "Uferdige notater/Kvante/Logiske porter.md",
     "Uferdige notater/Kvante/Klassiske tilstander.md",
