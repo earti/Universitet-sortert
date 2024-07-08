@@ -9,9 +9,9 @@
 > [!warning] %%Begrensninger%%
 
 ``` python
-A = [3,4,6,1,7,8]
+A = [3,2,4,6,1,7,8]
 i = 1
-while i < length(A):
+while i < len(A):
     j = i
     while j > 0 and A[j-1] > A[j]:
         temp = A[j]
@@ -36,3 +36,4 @@ while i < length(A):
 > $\bullet\quad$ [[På-stedet|På-stedet]]
 
 > [!failure] %%Ulemper%%
+> $\bullet\quad$ Ueffektiv på lange lister
