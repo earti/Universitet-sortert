@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Algoritme.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Algoritme.md",
+            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Algoritme.md",
+            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Algoritme.md"
+            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md"
           }
         }
       }
@@ -144,6 +144,29 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "Programmering/Bachmann–Landau notasjoner.md",
+    "/Programmering/Bachmann–Landau notasjoner.md",
+    "/Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+    "Uferdige notater/Info, må fullføres senere/Online.md",
+    "Uferdige notater/Info, må fullføres senere/Stabil.md",
+    "Uferdige notater/Info, må fullføres senere/På-stedet.md",
+    "/Uferdige notater/Info, må fullføres senere/Online.md",
+    "/Uferdige notater/Info, må fullføres senere/Stabil.md",
+    "/Uferdige notater/Info, må fullføres senere/På-stedet.md",
+    "Uferdige notater/Info, må fullføres senere",
+    "/Uferdige notater/Info, må fullføres senere",
+    "Templates/Algoritme.md",
+    "Programmering/Info, må fullføres senere/Online.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+    "Programmering/Info, må fullføres senere/Stabil.md",
+    "Programmering/Info, må fullføres senere/På-stedet.md",
+    "/Programmering/Info, må fullføres senere/Online.md",
+    "/Programmering/Info, må fullføres senere/Stabil.md",
+    "/Programmering/Info, må fullføres senere/På-stedet.md",
+    "Programmering/Info, må fullføres senere",
+    "Programmering/Algoritmer/Sorteringsalgoritmer",
+    "/Programmering/Info, må fullføres senere",
+    "/Programmering/Algoritmer/Sorteringsalgoritmer",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Likningsett på matriseform.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Diagonaliserbarhet.md",
@@ -153,32 +176,9 @@
     "Uferdige notater/Matte/Rekker/Forholdstesten.md",
     "Uferdige notater/Matte/Følger/Følger.md",
     "Uferdige notater/Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
-    "Uferdige notater/Matte/Funksjoner/Regneregler for grenser til funksjoner.md",
-    "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
-    "Uferdige notater/Matte/Funksjoner/Delvis integrasjon.md",
-    "Uferdige notater/Matte/Funksjoner/Delbrøkoppspalting.md",
-    "Uferdige notater/Matte/Funksjoner/Definisjon av den deriverte.md",
-    "Uferdige notater/Matte/Funksjoner/Arealet mellom to kurver.md",
-    "Uferdige notater/Matte/Funksjoner/Areal av omdreiningsflater.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Vinkelfart.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Ulike krefter x.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Sentripetalakselerasjonen.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter/Newtons lover.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter/Newtons gravitasjonslov.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Sirkelbevegelse.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Kastebevegelse uten luftmotstand.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk/Kastebevegelse med luftmotstand.md",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Friksjon.md",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/Kinematikkprinsipper",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket",
-    "Uferdige notater/Matte/SUMSUM2",
-    "Uferdige notater/Matte/SUMSUM",
-    "Uferdige notater/Matte/Rekker"
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall"
   ]
 }
