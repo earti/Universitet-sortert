@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+                "file": "Programmering/Bachmann–Landau notasjoner.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+            "file": "Programmering/Bachmann–Landau notasjoner.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+            "file": "Programmering/Bachmann–Landau notasjoner.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md"
+            "file": "Programmering/Bachmann–Landau notasjoner.md"
           }
         }
       }
@@ -144,6 +144,10 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "Templates/Algoritme.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+    "Templates/Callouts.md",
+    "Templates/Hva som må med i Algdat.md",
     "Programmering/Bachmann–Landau notasjoner.md",
     "/Programmering/Bachmann–Landau notasjoner.md",
     "/Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
@@ -155,9 +159,7 @@
     "/Uferdige notater/Info, må fullføres senere/På-stedet.md",
     "Uferdige notater/Info, må fullføres senere",
     "/Uferdige notater/Info, må fullføres senere",
-    "Templates/Algoritme.md",
     "Programmering/Info, må fullføres senere/Online.md",
-    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Programmering/Info, må fullføres senere/Stabil.md",
     "Programmering/Info, må fullføres senere/På-stedet.md",
     "/Programmering/Info, må fullføres senere/Online.md",
@@ -174,8 +176,6 @@
     "Uferdige notater/Matte/Funksjoner/Buelengde.md",
     "Uferdige notater/Matte/Rekker/Rekker.md",
     "Uferdige notater/Matte/Rekker/Forholdstesten.md",
-    "Uferdige notater/Matte/Følger/Følger.md",
-    "Uferdige notater/Matte/Følger/Andreordens homogene diff.likninger Rekurrensrelasjoner x.md",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
