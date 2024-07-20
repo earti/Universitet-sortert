@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Bachmann–Landau notasjoner.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Bachmann–Landau notasjoner.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Bachmann–Landau notasjoner.md",
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Bachmann–Landau notasjoner.md"
+                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md"
               }
             }
           },
@@ -176,8 +176,8 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Programmering/Bachmann–Landau notasjoner.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Uferdige notater/Info, må fullføres senere/På-stedet.md",
     "Templates/Algoritme.md",
     "Templates/Hva som må med i Algdat.md",
