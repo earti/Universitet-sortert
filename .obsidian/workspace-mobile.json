@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Abstrakt algebra/Assosiativ.md",
+                "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Assosiativ.md",
+            "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Assosiativ.md",
+            "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Assosiativ.md"
+            "file": "Diskret matte/Abstrakt algebra/Gruppe.md"
           }
         }
       }
@@ -144,6 +144,7 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "Diskret matte/Abstrakt algebra/Assosiativ.md",
     "Programmering/Bachmann–Landau notasjoner.md",
     "Templates/Algoritme.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
@@ -175,7 +176,6 @@
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Determinant.md",
     "Uferdige notater/Matte/Funksjoner/Buelengde.md",
     "Uferdige notater/Matte/Rekker/Rekker.md",
-    "Uferdige notater/Matte/Rekker/Forholdstesten.md",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
