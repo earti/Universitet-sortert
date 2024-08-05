@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8d0c26a33c49496",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +185,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edeaa709fe90421d",
+  "active": "a8d0c26a33c49496",
   "lastOpenFiles": [
     "Programmering/Bachmann–Landau notasjoner.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
