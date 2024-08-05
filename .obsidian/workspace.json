@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Global phase gate.md"
+                "file": "Uferdige notater/Kvante/Logiske porter/Untitled.md"
               }
             }
           },
@@ -188,8 +188,12 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Uferdige notater/Kvante/Logiske porter/Identity gate.md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
+    "Uferdige notater/Kvante/Logiske porter/Untitled.md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli X.md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
     "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+    "Uferdige notater/Kvante/Logiske porter/Identity gate.md",
     "Templates/Callouts.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Templates/Algoritme.md",
@@ -215,10 +219,6 @@
     "Diskret matte/Utsagnslogikk/Symbolers betydning/Negasjon x.md",
     "Diskret matte/Utsagnslogikk/Symbolers betydning/Konjunksjon x.md",
     "Diskret matte/Utsagnslogikk/Symbolers betydning/Implikasjon.md",
-    "Diskret matte/Utsagnslogikk/Symbolers betydning/Eksklusiv disjunksjon x.md",
-    "Diskret matte/Utsagnslogikk/Symbolers betydning/Disjunksjon x.md",
-    "Diskret matte/Utsagnslogikk/Symbolers betydning/Bisubjunksjon.md",
-    "Diskret matte/Utsagnslogikk/Symbolers betydning/Antivalens x.md",
     "Diskret matte/Formelle språk og grammatikker",
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori",
