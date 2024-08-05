@@ -1,4 +1,4 @@
-# Callouts
+
 > [!note]
 
 > [!info]
