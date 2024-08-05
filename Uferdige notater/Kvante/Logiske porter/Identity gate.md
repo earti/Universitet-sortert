@@ -1,4 +1,4 @@
-> [!info] Matriserepresentasjon
-> $$\begin{bmatrix} 1&0\\0&1\end{bmatrix}$$
+> [!info] Matrix representation
+> $$\begin{bmatrix} \begin{array}{ccc}1&0\\0&1\end{array}\end{bmatrix}$$
 
 
