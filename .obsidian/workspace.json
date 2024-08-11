@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Phase gate S.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Phase gate S.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Phase gate S.md",
+                "file": "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdige notater/Kvante/Logiske porter/Phase gate S.md"
+                "file": "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md"
               }
             }
           },
@@ -189,7 +189,7 @@
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
     "Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
-    "Uferdige notater/Kvante/Logiske porter/Phase gate S.md",
+    "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
     "Uferdige notater/Kvante/Logiske porter/Pauli X.md",
     "Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
     "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
