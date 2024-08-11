@@ -1,9 +1,11 @@
 
 > [!abstract] %%Oppsummering%%
 $\mathbb{N}$ er [[Mengde|mengden]] av naturlige heltall (eng. natural numbers)
-$\mathbb{Z}$ er [[Mengde|mengden]] av heltall (eng. integers)
-$\mathbb{Q}$ er [[Mengde|mengden]] av rasjonale tall (eng. rational numbers)
-$\mathbb{R}$ er [[Mengde|mengden]] av reelle tall (eng. real numbers)
+$\mathbb{Z}$ er mengden av heltall (eng. integers)
+$\mathbb{Q}$ er mengden av rasjonale tall (eng. rational numbers)
+$\mathbb{R}$ er mengden av reelle tall (eng. real numbers)
+$\mathbb{R}$ er mengden av komplekse tall (eng. complex numbers)
+$\mathbb{H}$ er kvaternionene
 
 Naturlige tall [[Induktivt definerte mengder|induktivt definert]]:
 $\bullet\quad$ $0\in \mathbb{N}$
