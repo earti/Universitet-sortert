@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ekviv",
+                "query": "gruppe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
+                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md"
+                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md"
               }
             }
           },
@@ -186,8 +187,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edeaa709fe90421d",
+  "active": "f49dc22f2edfc66b",
   "lastOpenFiles": [
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
+    "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
+    "Uferdige notater/Matte/Funksjoner/Delbrøkoppspalting.md",
+    "Uferdige notater/Matte/Funksjoner/Definisjon av den deriverte.md",
+    "Uferdige notater/Matte/Funksjoner/Arealet mellom to kurver.md",
+    "Uferdige notater/Matte/Funksjoner/Analysens fundamentalteorem.md",
+    "Uferdige notater/Info, må fullføres senere/Online.md",
+    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Templates/Callouts.md",
     "Templates/Definisjoner.md",
     "Templates/Hva som må med i Algdat.md",
@@ -205,15 +215,6 @@
     "Diskret matte/Grafteori/Isomorfi.md",
     "Diskret matte/Grafteori/Graf.md",
     "Diskret matte/Grafteori/Graden til en node.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Sammenhengende graf.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Kretser og sykler.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
-    "Diskret matte/Grafteori/Vandringer i grafer/Eulervei og -krets.md",
-    "Diskret matte/Bevis/Struktruell induksjon.md",
-    "Diskret matte/Tallteori/Matematisk induksjon.md",
-    "Diskret matte/Bevis/Bevis.md",
-    "Diskret matte/Bevis/Bevis ved tilfeller.md",
-    "Diskret matte/Bevis/Konsistent teori.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
