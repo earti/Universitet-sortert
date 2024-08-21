@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+                "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md"
+            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md"
           }
         }
       }
@@ -145,6 +145,10 @@
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
     "Diskret matte/Abstrakt algebra/Gruppe.md",
+    "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+    "Diskret matte/Relasjoner/Relasjonstyper/Transitivitet.md",
+    "Diskret matte/Relasjoner/Relasjonstyper/Symmetri.md",
+    "Diskret matte/Relasjoner/Relasjonstyper/Refleksivitet.md",
     "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
     "Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
     "Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
@@ -168,10 +172,6 @@
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Templates/Callouts.md",
     "Templates/Hva som må med i Algdat.md",
-    "/Programmering/Bachmann–Landau notasjoner.md",
-    "/Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
-    "Uferdige notater/Info, må fullføres senere/Online.md",
-    "Uferdige notater/Info, må fullføres senere/Stabil.md",
     "Uferdige notater/Info, må fullføres senere",
     "/Uferdige notater/Info, må fullføres senere",
     "Programmering/Info, må fullføres senere",
