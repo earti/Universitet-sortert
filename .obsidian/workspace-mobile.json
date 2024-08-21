@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
+                "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "ekvi",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -85,7 +85,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "18e07a7015aaf12f",
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Gruppe.md",
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Abstrakt algebra/Gruppe.md"
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md"
           }
         }
       }
@@ -144,6 +144,24 @@
   },
   "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "Diskret matte/Abstrakt algebra/Gruppe.md",
+    "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
+    "Uferdige notater/Kvante/Logiske porter/Pauli X.md",
+    "Uferdige notater/Kvante/Logiske porter/Identity gate.md",
+    "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+    "/Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
+    "/Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
+    "/Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
+    "/Uferdige notater/Kvante/Logiske porter/Pauli X.md",
+    "/Uferdige notater/Kvante/Logiske porter/Identity gate.md",
+    "/Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
+    "/Templates/Callouts.md",
+    "/Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
+    "Uferdige notater/Kvante/Logiske porter",
+    "/Uferdige notater/Kvante/Logiske porter",
+    "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
     "Diskret matte/Abstrakt algebra/Assosiativ.md",
     "Programmering/Bachmann–Landau notasjoner.md",
     "Templates/Algoritme.md",
@@ -154,31 +172,13 @@
     "/Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Uferdige notater/Info, må fullføres senere/Online.md",
     "Uferdige notater/Info, må fullføres senere/Stabil.md",
-    "Uferdige notater/Info, må fullføres senere/På-stedet.md",
-    "/Uferdige notater/Info, må fullføres senere/Online.md",
-    "/Uferdige notater/Info, må fullføres senere/Stabil.md",
-    "/Uferdige notater/Info, må fullføres senere/På-stedet.md",
     "Uferdige notater/Info, må fullføres senere",
     "/Uferdige notater/Info, må fullføres senere",
-    "Programmering/Info, må fullføres senere/Online.md",
-    "Programmering/Info, må fullføres senere/Stabil.md",
-    "Programmering/Info, må fullføres senere/På-stedet.md",
-    "/Programmering/Info, må fullføres senere/Online.md",
-    "/Programmering/Info, må fullføres senere/Stabil.md",
-    "/Programmering/Info, må fullføres senere/På-stedet.md",
     "Programmering/Info, må fullføres senere",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
     "/Programmering/Info, må fullføres senere",
     "/Programmering/Algoritmer/Sorteringsalgoritmer",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Regneregler på matriser.md",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Likningsett på matriseform.md",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Diagonaliserbarhet.md",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Determinant.md",
-    "Uferdige notater/Matte/Funksjoner/Buelengde.md",
-    "Uferdige notater/Matte/Rekker/Rekker.md",
     "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall"
+    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk"
   ]
 }
