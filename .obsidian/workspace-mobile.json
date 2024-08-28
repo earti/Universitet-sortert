@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
+                "file": "Diskret matte/Relasjoner/Relasjon.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -44,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "ekvi",
+            "query": "ekviv",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -97,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
+            "file": "Diskret matte/Relasjoner/Relasjon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
+            "file": "Diskret matte/Relasjoner/Relasjon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Relasjoner/Modeller/Ekvivalens.md"
+            "file": "Diskret matte/Relasjoner/Relasjon.md"
           }
         }
       }
@@ -142,8 +143,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "062c2ac834f467a8",
+  "active": "6d799442737e4712",
   "lastOpenFiles": [
+    "Diskret matte/Relasjoner/Relasjonstyper/Anti-symmetri.md",
+    "Diskret matte/Relasjoner/Relasjon.md",
+    "Diskret matte/Funksjoner/Definisjons- og verdiområde.md",
+    "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
     "Diskret matte/Abstrakt algebra/Gruppe.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Transitivitet.md",
@@ -168,10 +173,6 @@
     "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
     "Diskret matte/Abstrakt algebra/Assosiativ.md",
     "Programmering/Bachmann–Landau notasjoner.md",
-    "Templates/Algoritme.md",
-    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
-    "Templates/Callouts.md",
-    "Templates/Hva som må med i Algdat.md",
     "Uferdige notater/Info, må fullføres senere",
     "/Uferdige notater/Info, må fullføres senere",
     "Programmering/Info, må fullføres senere",
