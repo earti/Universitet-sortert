@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md"
+                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md"
               }
             }
           },
@@ -175,19 +175,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edeaa709fe90421d",
+  "active": "d0b9e3b921065743",
   "lastOpenFiles": [
+    "Uferdig, mangler eksempler/Statistikk/Teorem/Untitled",
+    "Uferdig, mangler eksempler/Statistikk/Uavhengige hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelse.md",
+    "Uferdig, mangler eksempler/Statistikk/Betinget sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Stokastisk forsøk og utfallsrom.md",
+    "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
     "Uferdig, mangler eksempler/Statistikk/Teorem/Sannsynlighet for union av hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Teorem/Setningen om total sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Betinget sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
     "Uferdig, mangler eksempler/Statistikk/Teorem/Komplimentærsetningen.md",
     "Uferdig, mangler eksempler/Statistikk/Sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Stokastisk forsøk og utfallsrom.md",
     "Uferdig, mangler eksempler/Statistikk/Operasjoner på hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Teorem/Bayes regel.md",
     "Uferdig, mangler eksempler/Statistikk/Disjunkte hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelse.md",
     "Uferdig, mangler eksempler/Statistikk/Teorem",
     "Uferdig, mangler eksempler/Statistikk",
     "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
@@ -203,9 +206,6 @@
     "Uferdige notater/Matte/Funksjoner/Arealet mellom to kurver.md",
     "Uferdige notater/Matte/Funksjoner/Analysens fundamentalteorem.md",
     "Uferdige notater/Info, må fullføres senere/Online.md",
-    "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
-    "Templates/Callouts.md",
-    "Templates/Hva som må med i Algdat.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
