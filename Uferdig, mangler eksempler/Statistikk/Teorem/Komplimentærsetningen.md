@@ -1,0 +1,1 @@
+La $A$ være en [[Hendelse|hendelser]] i et [[Stokastisk forsøk og utfallsrom|utfallsrom]] $S$. Da er $P(A)=1-P(A')$.
