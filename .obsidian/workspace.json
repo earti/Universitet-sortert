@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8d0c26a33c49496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Callouts.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 200
   },
   "right": {
     "id": "96d91ff246919f56",
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md"
+                "file": "README.md"
               }
             }
           },
@@ -174,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,8 +175,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d0b9e3b921065743",
+  "active": "edeaa709fe90421d",
   "lastOpenFiles": [
+    "Uferdig, men snart",
+    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
     "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
@@ -212,8 +203,6 @@
     "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Begrepstabell.md",
     "Diskret matte/Grafteori/Komplement.md",
     "Diskret matte/Grafteori/Isomorfi.md",
-    "Diskret matte/Grafteori/Graf.md",
-    "Diskret matte/Grafteori/Graden til en node.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
