@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Uferdig, men snart/Operasjoner på hendelser.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Uferdig, men snart/Operasjoner på hendelser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Uferdig, men snart/Operasjoner på hendelser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Uferdig, men snart/Operasjoner på hendelser.md"
               }
             }
           },
@@ -177,6 +177,12 @@
   },
   "active": "edeaa709fe90421d",
   "lastOpenFiles": [
+    "Uferdig, men snart/Hendelse.md",
+    "Uferdig, men snart/Stokastisk forsøk og utfallsrom.md",
+    "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
+    "Uferdig, men snart/Operasjoner på hendelser.md",
+    "Templates/Definisjoner.md",
+    "README.md",
     "Uferdig, men snart",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
@@ -189,7 +195,6 @@
     "Uferdige notater/Info, må fullføres senere/Online.md",
     "Programmering/Algoritmer/Sorteringsalgoritmer/Insertion sort.md",
     "Templates/Callouts.md",
-    "Templates/Definisjoner.md",
     "Templates/Hva som må med i Algdat.md",
     "Templates/Mal.md",
     "Templates/Algoritme.md",
@@ -199,10 +204,6 @@
     "Diskret matte/Utsagnslogikk/Predikat.md",
     "Diskret matte/Utsagnslogikk/Atomære utsagn.md",
     "Diskret matte/Utsagnslogikk/Atomære og sammensatte formler.md",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Logisk ekvivalens.md",
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Begrepstabell.md",
-    "Diskret matte/Grafteori/Komplement.md",
-    "Diskret matte/Grafteori/Isomorfi.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
@@ -212,7 +213,6 @@
     "Diskret matte/Grafteori/Vandringer i grafer",
     "Diskret matte/Grafteori",
     "Diskret matte/Abstrakt algebra",
-    "Diskret matte/Kombinatorikk",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
