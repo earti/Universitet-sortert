@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f49dc22f2edfc66b",
+  "active": "d0b9e3b921065743",
   "lastOpenFiles": [
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
