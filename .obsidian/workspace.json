@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md"
+                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md"
               }
             }
           },
@@ -175,11 +175,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d0b9e3b921065743",
+  "active": "edeaa709fe90421d",
   "lastOpenFiles": [
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Untitled",
-    "Uferdig, mangler eksempler/Statistikk/Uavhengige hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
+    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg",
+    "Uferdig, mangler eksempler/Statistikk/Uavhengige hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelse.md",
     "Uferdig, mangler eksempler/Statistikk/Betinget sannsynlighet.md",
     "Uferdig, mangler eksempler/Statistikk/Stokastisk forsøk og utfallsrom.md",
@@ -212,7 +213,6 @@
     "Uferdige notater/Info, må fullføres senere",
     "Uferdige notater",
     "Diskret matte/Formelle språk og grammatikker",
-    "Diskret matte/Grafteori/Vandringer i grafer",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
