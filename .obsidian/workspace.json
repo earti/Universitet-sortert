@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md"
+                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md"
               }
             }
           },
@@ -175,26 +175,27 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "edeaa709fe90421d",
+  "active": "d0b9e3b921065743",
   "lastOpenFiles": [
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Uniform sannsynlighetsmodell.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Utvalg",
-    "Uferdig, mangler eksempler/Statistikk/Uavhengige hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelse.md",
-    "Uferdig, mangler eksempler/Statistikk/Betinget sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Stokastisk forsøk og utfallsrom.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Multiplikasjonssetningen.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Sannsynlighet for union av hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Setningen om total sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Komplimentærsetningen.md",
-    "Uferdig, mangler eksempler/Statistikk/Sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Operasjoner på hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem/Bayes regel.md",
-    "Uferdig, mangler eksempler/Statistikk/Disjunkte hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Teorem",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Hendelse.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Betinget sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Stokastisk forsøk og utfallsrom.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Multiplikasjonssetningen.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Sannsynlighet for union av hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Setningen om total sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Komplimentærsetningen.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Operasjoner på hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Bayes regel.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Disjunkte hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
     "Uferdig, mangler eksempler/Statistikk",
     "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
     "Templates/Definisjoner.md",
@@ -206,7 +207,6 @@
     "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
     "Uferdige notater/Matte/Funksjoner/Delbrøkoppspalting.md",
     "Uferdige notater/Matte/Funksjoner/Definisjon av den deriverte.md",
-    "Uferdige notater/Matte/Funksjoner/Arealet mellom to kurver.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
