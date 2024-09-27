@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+                "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "model",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
+            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md"
+            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md"
           }
         }
       }
@@ -143,8 +143,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d799442737e4712",
+  "active": "062c2ac834f467a8",
   "lastOpenFiles": [
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Falsifiserbarhet.md",
+    "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
+    "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
+    "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
@@ -167,10 +171,6 @@
     "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
     "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
     "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Setningen om total sannsynlighet.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Sannsynlighet for union av hendelser.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Multiplikasjonssetningen.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Komplimentærsetningen.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Bayes regel.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
