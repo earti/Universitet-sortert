@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Relasjoner/Relasjon.md",
+                "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,7 +45,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "ekviv",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjon.md",
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjon.md",
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Relasjoner/Relasjon.md"
+            "file": "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md"
           }
         }
       }
@@ -145,41 +145,41 @@
   },
   "active": "6d799442737e4712",
   "lastOpenFiles": [
-    "Diskret matte/Relasjoner/Relasjonstyper/Anti-symmetri.md",
-    "Diskret matte/Relasjoner/Relasjon.md",
-    "Diskret matte/Funksjoner/Definisjons- og verdiområde.md",
-    "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
-    "Diskret matte/Abstrakt algebra/Gruppe.md",
-    "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
-    "Diskret matte/Relasjoner/Relasjonstyper/Transitivitet.md",
-    "Diskret matte/Relasjoner/Relasjonstyper/Symmetri.md",
-    "Diskret matte/Relasjoner/Relasjonstyper/Refleksivitet.md",
-    "Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
-    "Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
-    "Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
-    "Uferdige notater/Kvante/Logiske porter/Pauli X.md",
-    "Uferdige notater/Kvante/Logiske porter/Identity gate.md",
-    "Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
-    "/Uferdige notater/Kvante/Logiske porter/Phase (S, P).md",
-    "/Uferdige notater/Kvante/Logiske porter/Pauli Z.md",
-    "/Uferdige notater/Kvante/Logiske porter/Pauli Y.md",
-    "/Uferdige notater/Kvante/Logiske porter/Pauli X.md",
-    "/Uferdige notater/Kvante/Logiske porter/Identity gate.md",
-    "/Uferdige notater/Kvante/Logiske porter/Global phase gate.md",
-    "/Templates/Callouts.md",
-    "/Diskret matte/Grunnleggende mengdelære/Tallmengder.md",
-    "Uferdige notater/Kvante/Logiske porter",
-    "/Uferdige notater/Kvante/Logiske porter",
-    "Diskret matte/Grafteori/Vandringer i grafer/Hamiltonsti og -sykel.md",
-    "Diskret matte/Abstrakt algebra/Assosiativ.md",
-    "Programmering/Bachmann–Landau notasjoner.md",
-    "Uferdige notater/Info, må fullføres senere",
-    "/Uferdige notater/Info, må fullføres senere",
-    "Programmering/Info, må fullføres senere",
-    "Programmering/Algoritmer/Sorteringsalgoritmer",
-    "/Programmering/Info, må fullføres senere",
-    "/Programmering/Algoritmer/Sorteringsalgoritmer",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Krefter",
-    "Uferdige notater/Fysikk/Mekanisk fysikk/SUMSUM/Kinematikk"
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Setningen om total sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Sannsynlighet for union av hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Multiplikasjonssetningen.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Komplimentærsetningen.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Bayes regel.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Stokastisk forsøk og utfallsrom.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Sannsynlighet.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Operasjoner på hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Hendelse.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Disjunkte hendelser.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Betinget sannsynlighet.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Setningen om total sannsynlighet.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Sannsynlighet for union av hendelser.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Multiplikasjonssetningen.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Komplimentærsetningen.md",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Bayes regel.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
+    "Uferdig, mangler eksempler/Statistikk",
+    "Uferdig, mangler eksempler",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
+    "/Uferdig, mangler eksempler/Statistikk",
+    "/Uferdig, mangler eksempler"
   ]
 }
