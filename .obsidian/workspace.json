@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Templates/Mal matte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9977c699615aeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md"
+                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md"
               }
             }
           },
@@ -177,10 +190,17 @@
   },
   "active": "d0b9e3b921065743",
   "lastOpenFiles": [
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
+    "Templates/Mal fysikk.md",
+    "Templates/Callouts.md",
+    "Templates/Mal matte.md",
+    "Templates/Hva som må med i Algdat.md",
+    "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
+    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
+    "Uferdige notater/Kvante/Kvante 0",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
@@ -202,17 +222,10 @@
     "README.md",
     "Uferdig, mangler eksempler",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Normalform.md",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Komplekse tall.md",
-    "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Komplekse tall/Absoluttverdi.md",
-    "Uferdige notater/Matte/Funksjoner/Derivasjon av trigonometriske funksjoner x.md",
-    "Uferdige notater/Matte/Funksjoner/Delbrøkoppspalting.md",
-    "Uferdige notater/Matte/Funksjoner/Definisjon av den deriverte.md",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
     "Uferdige notater/Info, må fullføres senere",
-    "Uferdige notater",
-    "Diskret matte/Formelle språk og grammatikker",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
