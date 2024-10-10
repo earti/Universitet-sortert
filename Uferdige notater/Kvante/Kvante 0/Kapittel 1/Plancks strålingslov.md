@@ -4,11 +4,11 @@
 
 
 > [!quote] %%Quote, Lore%%
-> Eventuel lore
+> I et teselskap søndag 7. oktober 1900 hos Max Planck, med målingene til Rubens, konstruerte Planck en formel som passet med målingene.
 
 
 > [!note] %%Formel%%
-> Formel
+> $$I()$$
 
 
 > [!example] %%Eksempel%%
