@@ -8,7 +8,7 @@
 
 
 > [!note] %%Formel%%
-> $$I()$$
+> $$I(\upsilon, T) = \frac{2\pi\upsilon^2}{c^{2}}\frac{h \upsilon}{e^{h \upsilon/kT}-1}$$
 
 
 > [!example] %%Eksempel%%
