@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
+                "file": "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
+                "file": "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
+                "file": "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md"
+                "file": "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md"
               }
             }
           },
@@ -188,14 +188,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d0b9e3b921065743",
+  "active": "a9977c699615aeb4",
   "lastOpenFiles": [
-    "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
     "Templates/Mal fysikk.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Hva skiller kvante- og klassisk mekanikk.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
     "Templates/Callouts.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
     "Templates/Mal matte.md",
     "Templates/Hva som må med i Algdat.md",
-    "Uferdige notater/Kvante/Kvante 0/Plancks strålingslov.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
     "Uferdige notater/Kvante/Kvante 0",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
@@ -225,7 +226,6 @@
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",
     "Programmering/Algoritmer/Sorteringsalgoritmer",
-    "Uferdige notater/Info, må fullføres senere",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
