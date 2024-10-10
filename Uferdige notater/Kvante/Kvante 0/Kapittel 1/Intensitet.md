@@ -8,7 +8,6 @@
 
 
 > [!example] %%Eksempel%%
-> Her skriver du oppgaveeksempel og kortsvaret
 
 
 > [!quote] %%Referanser%%
