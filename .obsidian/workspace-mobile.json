@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+                "file": "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Konnektiv og logiske symboler x"
             }
           }
         ]
@@ -36,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -45,13 +49,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "model",
+            "query": "models",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -62,7 +68,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -70,7 +78,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -82,11 +92,13 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "18e07a7015aaf12f",
@@ -98,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+            "file": "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,7 +118,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -115,10 +129,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+            "file": "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -127,8 +143,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md"
-          }
+            "file": "Diskret matte/Utsagnslogikk/Konnektiv og logiske symboler x.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -143,11 +161,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "062c2ac834f467a8",
+  "active": "aba4d394cba7abb6",
   "lastOpenFiles": [
-    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Falsifiserbarhet.md",
+    "Templates/Mal matte.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Intensitet.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Hva skiller kvante- og klassisk mekanikk.md",
+    "/Templates/Mal matte.md",
+    "Templates/Mal fysikk.md",
+    "/Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
+    "/Uferdige notater/Kvante/Kvante 0/Kapittel 1/Intensitet.md",
+    "/Uferdige notater/Kvante/Kvante 0/Kapittel 1/Hva skiller kvante- og klassisk mekanikk.md",
+    "/Templates/Mal fysikk.md",
+    "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
+    "Uferdige notater/Kvante/Kvante 0",
+    "/Uferdige notater/Kvante/Kvante 0/Kapittel 1",
+    "/Uferdige notater/Kvante/Kvante 0",
     "Diskret matte/Utsagnslogikk/Sematikk for førsteordens logikk/Modell.md",
     "Diskret matte/Relasjoner/Modeller/Ekvivalens.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Begrepstabell.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Valuasjoner.md",
+    "Diskret matte/Utsagnslogikk/Utsagnslogiske formler fix plz.md",
+    "Diskret matte/Utsagnslogikk/Semantikk for utsagnslogikk/Falsifiserbarhet.md",
     "Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
@@ -158,28 +193,11 @@
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Sannsynlighet for union av hendelser.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Multiplikasjonssetningen.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Komplimentærsetningen.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Bayes regel.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Stokastisk forsøk og utfallsrom.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Sannsynlighet.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Operasjoner på hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Hendelse.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Disjunkte hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Betinget sannsynlighet.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Setningen om total sannsynlighet.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
     "Uferdig, mangler eksempler/Statistikk",
     "Uferdig, mangler eksempler",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
-    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
-    "/Uferdig, mangler eksempler/Statistikk",
-    "/Uferdig, mangler eksempler"
+    "/Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg"
   ]
 }
