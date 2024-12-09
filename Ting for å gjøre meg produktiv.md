@@ -27,6 +27,29 @@ Tekled
 Visuell formidling
 Partikkelfysikk
 Kvante 2
+Nanoverktøy?
+
+Utveksling 30stp
 
 Design Thinking
+Fysikkprosjekt
+Fysikkoppgave
 
+Indmat
+Algoritmer og datastrukturer
+Lineære metoder
+Numerisk matematikk
+Stokastisk modellering
+
+Algebra
+Numerisk løsning av differensialligninger med differansemetoder
+Lineære statistiske modeller
+Algoritmekonstruksjon
+
+Matematisk modellering
+Numerisk lineær algebra
+Algoritmer for bioinformatikk
+Design Thinking
+
+Matteprosjekt
+Matteoppgave
