@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Hva skiller kvante- og klassisk mekanikk.md",
+                "file": "Ting for å gjøre meg produktiv.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Mal matte.md",
+                "file": "Ting for å gjøre meg produktiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Mal matte.md",
+                "file": "Ting for å gjøre meg produktiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Mal matte.md"
+                "file": "Ting for å gjøre meg produktiv.md"
               }
             }
           },
@@ -212,8 +212,10 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "d0b9e3b921065743",
+  "active": "fdabf14464b51d11",
   "lastOpenFiles": [
+    "Uferdige notater/Kvante/Dirac-notasjon.md",
+    "Templates/Mal matte.md",
     "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Plancks strålingslov.md",
     "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Intensitet.md",
     "Uferdige notater/Kvante/Kvante 0/Kapittel 1/Hva skiller kvante- og klassisk mekanikk.md",
@@ -221,7 +223,6 @@
     "Templates/Mal fysikk.md",
     "Templates/Callouts.md",
     "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
-    "Templates/Mal matte.md",
     "Templates/Hva som må med i Algdat.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
     "Uferdige notater/Kvante/Kvante 0",
@@ -245,7 +246,6 @@
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
     "Uferdig, mangler eksempler/Statistikk",
     "Diskret matte/Grunnleggende mengdelære/Operasjoner på mengder/Snitt.md",
-    "Templates/Definisjoner.md",
     "Uferdig, mangler eksempler",
     "Uferdige notater/Kvante/Logiske porter",
     "Programmering/Datastrukturer",

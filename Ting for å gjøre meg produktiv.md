@@ -9,5 +9,24 @@ Kanban board for gjøremål
 Interleaved practice
 
 
+Tekfys
+Optikk
+VitBer
+Kjemi
 
+Kvante 1
+Måletek
+Statfys
+Klasmek
+
+Instrumentering
+Faste stoffer
+Elmag teori
+Tekled
+
+Visuell formidling
+Partikkelfysikk
+Kvante 2
+
+Design Thinking
 
