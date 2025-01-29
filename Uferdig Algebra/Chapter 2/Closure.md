@@ -4,9 +4,8 @@
 
 
 > [!example] %%Eksempel%%
-> Her skriver du oppgaveeksempel og kortsvaret
+> Eksempel 2.6
 
-Her skriver du et svareksempelet i sin helhet for matematikk og fysikk. Hvert trinn bør forklares eller være intuitivt. Hvert trinn nummereres.
 
 
 > [!quote] %%Referanser%%
