@@ -6,3 +6,4 @@
 > Our usual addition $+$ is a binary operation on the set $\mathbb{R}$. Our usual multiplication $\cdot$ is a different binary operation on $R$. In this example, we could replace $\mathbb{R}$ by any of the sets $\mathbb{C}$, $\mathbb{Z}$, $\mathbb{R}^+$, or $\mathbb{Z}^+$. Note that we require a binary operation on a set $S$ to be defined for every ordered pair $(a,b)$ of elements from $S$.
 
 > [!quote] %%Referanser%%
+> Fraleigh, John B. _A First Course in Abstract Algebra_. 7th ed., Pearson, 2003.

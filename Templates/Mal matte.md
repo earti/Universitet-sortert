@@ -22,5 +22,8 @@ Her skriver du forklaring til kode
 > Her skriver du lenker og referanser videre i MLA (Modern Language Association) - 8. utgave-stil
 Disk-mat:
 Antonsen, Roger. *Logiske metoder*. Universitetsforlaget, 2014. 
+Algebra:
+Fraleigh, John B. _A First Course in Abstract Algebra_. 7th ed., Pearson, 2003.
+
 
 
