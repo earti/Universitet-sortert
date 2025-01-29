@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig Algebra/Chapter 3/3.7.md",
+                "file": "Uferdig Algebra/Chapter 3/Isomorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.7"
+              "title": "Isomorphism"
             }
           }
         ],
@@ -246,12 +246,12 @@
   },
   "active": "1226cfb24c01289d",
   "lastOpenFiles": [
+    "Uferdig Algebra/Chapter 2/Binary operation.md",
+    "Uferdig Algebra/Chapter 2/Closure.md",
+    "Uferdig Algebra/Chapter 3/Isomorphism.md",
     "Uferdig Algebra/Chapter 3",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Isomorfi.md",
-    "Uferdig Algebra/Chapter 3/3.7.md",
     "Diskret matte/Grafteori/Isomorfi i grafer.md",
-    "Uferdig Algebra/Chapter 2/Closure.md",
-    "Uferdig Algebra/Chapter 2/Binary operation.md",
     "Templates/Mal matte.md",
     "Templates/Hva som må med i Algdat.md",
     "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
@@ -281,7 +281,6 @@
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Stokastisk forsøk og utfallsrom.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem",
     "Uferdig, mangler eksempler/Statistikk",
-    "Uferdig, mangler eksempler",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
