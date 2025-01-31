@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 400.5
   },
   "right": {
     "id": "96d91ff246919f56",
@@ -246,8 +246,12 @@
   },
   "active": "1226cfb24c01289d",
   "lastOpenFiles": [
-    "Uferdig Algebra/Chapter 5/Subgroup.md",
+    "Uferdig Algebra/Chapter 5/Generator.md",
     "Uferdig Algebra/Chapter 5/Untitled.md",
+    "Uferdig Algebra/Chapter 6",
+    "Uferdig Algebra/Chapter 5/Generated cyclic subgroup.md",
+    "Uferdig Algebra/Chapter 5/Proper and trivial subgroups.md",
+    "Uferdig Algebra/Chapter 5/Subgroup.md",
     "Uferdig Algebra/Chapter 5/Order of groups.md",
     "Uferdig Algebra/Chapter 3/Isomorphism.md",
     "Templates/Definisjoner.md",
@@ -276,12 +280,8 @@
     "Templates/Mal fysikk.md",
     "Templates/Callouts.md",
     "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning uten tilbakelegging.md",
     "Uferdige notater/Kvante/Kvante 0",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
