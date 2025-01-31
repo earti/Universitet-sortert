@@ -67,10 +67,14 @@
             "id": "1226cfb24c01289d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Uferdig Algebra/Chapter 5/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -242,17 +246,21 @@
   },
   "active": "1226cfb24c01289d",
   "lastOpenFiles": [
+    "Uferdig Algebra/Chapter 5/Subgroup.md",
+    "Uferdig Algebra/Chapter 5/Untitled.md",
+    "Uferdig Algebra/Chapter 5/Order of groups.md",
+    "Uferdig Algebra/Chapter 3/Isomorphism.md",
+    "Templates/Definisjoner.md",
+    "Templates/Mal matte.md",
     "Uferdig Algebra/Chapter 4/Abelian group.md",
     "Uferdig Algebra/Chapter 5",
     "Uferdig Algebra/Chapter 4/Group.md",
-    "Uferdig Algebra/Chapter 3/Isomorphism.md",
     "Uferdig Algebra/Chapter 4",
     "Uferdig Algebra/Chapter 2/Binary operation.md",
     "Uferdig Algebra/Chapter 2/Closure.md",
     "Uferdig Algebra/Chapter 3",
     "Uferdige notater/Matte/SUMSUM3 generert, ikke sjekket/Lineær algebra/Isomorfi.md",
     "Diskret matte/Grafteori/Isomorfi i grafer.md",
-    "Templates/Mal matte.md",
     "Templates/Hva som må med i Algdat.md",
     "Diskret matte/Grunnleggende mengdelære/Kardinalitet.md",
     "Uferdig Algebra/Chapter 0/Subset.md",
@@ -273,10 +281,7 @@
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ordnet utvalg, trekning med tilbakelegging.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg/Ikke-ordnet utvalg, trekning uten tilbakelegging.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uniform sannsynlighetsmodell.md",
     "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Teorem/Utvalg",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Uavhengige hendelser.md",
-    "Uferdig, mangler eksempler/Statistikk/Hendelser og sannsynlighet/Hendelse.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

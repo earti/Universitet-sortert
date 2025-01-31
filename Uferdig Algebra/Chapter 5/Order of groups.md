@@ -1,6 +1,6 @@
 
 > [!abstract] %%Oppsummering%%
-> 
+> If $G$ is a [[Group|group]], then the order $|G|$ of $G$ is the number of elements in $G$.
 
 > [!example] %%Eksempel%%
 > 
