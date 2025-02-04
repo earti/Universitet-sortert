@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig Algebra/Chapter 9/Untitled.md",
+                "file": "Uferdig Algebra/Chapter 9/Even and odd permutations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Even and odd permutations"
             }
           }
         ],
@@ -247,8 +247,9 @@
   },
   "active": "1226cfb24c01289d",
   "lastOpenFiles": [
+    "Uferdig Algebra/Chapter 9/Transposition.md",
+    "Uferdig Algebra/Chapter 9/Even and odd permutations.md",
     "Uferdig Algebra/Chapter 9/Cycle and cycle length.md",
-    "Uferdig Algebra/Chapter 9/Untitled.md",
     "Uferdig Algebra/Chapter 9/Orbit.md",
     "Uferdig Algebra/Chapter 8/Regular representation x.md",
     "Uferdig Algebra/Chapter 9",
@@ -273,7 +274,6 @@
     "Diskret matte/Abstrakt algebra/Invers funksjon.md",
     "Diskret matte/Abstrakt algebra/Identitetselement.md",
     "Diskret matte/Abstrakt algebra/Idempotent.md",
-    "Diskret matte/Abstrakt algebra/Gruppe.md",
     "Uferdig Algebra/Chapter 8",
     "Uferdig Algebra/Chapter 7 ikke pensum",
     "Uferdig Algebra/Chapter 6",
