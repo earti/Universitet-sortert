@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Cartesian product of sets"
             }
+          },
+          {
+            "id": "a0f624fb5bd796c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1226cfb24c01289d",
+  "active": "a0f624fb5bd796c2",
   "lastOpenFiles": [
     "Uferdig Algebra/Chapter 10/10.13.md",
     "Uferdig Algebra/Chapter 11/Cartesian product of sets.md",
