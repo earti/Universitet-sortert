@@ -69,28 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig Algebra/Chapter 11/Cartesian product of sets.md",
+                "file": "Uferdig Algebra/Chapter 13/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cartesian product of sets"
-            }
-          },
-          {
-            "id": "a0f624fb5bd796c2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,10 +245,14 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a0f624fb5bd796c2",
+  "active": "1226cfb24c01289d",
   "lastOpenFiles": [
-    "Uferdig Algebra/Chapter 10/10.13.md",
+    "Uferdig Algebra/Chapter 11/Decomposability.md",
+    "Uferdig Algebra/Chapter 13/Untitled.md",
+    "Uferdig Algebra/Chapter 13",
+    "Uferdig Algebra/Chapter 11/Least common multiple.md",
     "Uferdig Algebra/Chapter 11/Cartesian product of sets.md",
+    "Uferdig Algebra/Chapter 10/10.13.md",
     "Uferdig Algebra/Chapter 11",
     "Uferdig Algebra/Chapter 10/Coset of subgroup.md",
     "Uferdig Algebra/Chapter 9/Alternating group.md",
@@ -285,16 +277,12 @@
     "Diskret matte/Bevis/Bevis ved tilfeller.md",
     "Diskret matte/Bevis/Bevis for universelle påstander.md",
     "Diskret matte/Bevis/Bevis for at noe er usant.md",
-    "Diskret matte/Bevis/Bevis.md",
-    "Diskret matte/Abstrakt algebra/Kommutativ.md",
-    "Diskret matte/Abstrakt algebra/Inverse elementer.md",
     "Uferdig Algebra/Chapter 8",
     "Uferdig Algebra/Chapter 7 ikke pensum",
     "Uferdig Algebra/Chapter 6",
     "Uferdig Algebra/Chapter 5",
     "Uferdig Algebra/Chapter 4",
     "Uferdig Algebra/Chapter 3",
-    "Uferdig Algebra/Chapter 2",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
