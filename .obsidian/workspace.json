@@ -69,28 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskret matte/Bevis/Sunnhet og kompletthet.md",
+                "file": "Uferdig Algebra/Chapter 9/Orbit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunnhet og kompletthet"
-            }
-          },
-          {
-            "id": "6682940c72328ad7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "Orbit"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,8 +245,12 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "6682940c72328ad7",
+  "active": "1226cfb24c01289d",
   "lastOpenFiles": [
+    "Uferdig Algebra/Chapter 8/Regular representation x.md",
+    "Uferdig Algebra/Chapter 9/Orbit.md",
+    "Uferdig Algebra/Chapter 9",
+    "Diskret matte/Bevis/Sunnhet og kompletthet.md",
     "Diskret matte/Bevis/Substitusjon.md",
     "Diskret matte/Bevis/Struktruell induksjon.md",
     "Diskret matte/Bevis/Moteksempler.md",
@@ -281,10 +273,7 @@
     "Diskret matte/Abstrakt algebra/Idempotent.md",
     "Diskret matte/Abstrakt algebra/Gruppe.md",
     "Diskret matte/Abstrakt algebra/Assosiativ.md",
-    "Uferdig Algebra/Chapter 8/8.17 x.md",
     "Uferdig Algebra/Chapter 8/Image.md",
-    "Uferdig Algebra/Chapter 8/Group of all permutations.md",
-    "Uferdig Algebra/Chapter 8/Permutation of group.md",
     "Uferdig Algebra/Chapter 8",
     "Uferdig Algebra/Chapter 7 ikke pensum",
     "Uferdig Algebra/Chapter 6",
@@ -294,7 +283,6 @@
     "Uferdig Algebra/Chapter 2",
     "Uferdig Algebra/Kapittel 4",
     "Uferdig Algebra",
-    "Uferdige notater/Kvante/Kvante 0/Kapittel 1",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
