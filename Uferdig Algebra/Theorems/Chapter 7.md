@@ -1,0 +1,1 @@
+The intersection of some subgroups Hi of a group G for i ∈ I is again a subgroup of G.

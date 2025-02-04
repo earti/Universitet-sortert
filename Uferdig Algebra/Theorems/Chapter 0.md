@@ -1,0 +1,1 @@
+Equivalence Relations and Partitions: Let $S$ be a nonempty [[Mengde|set]] and let $\sim$ be an [[Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens|equivalence relation]] on $S$. Then $\sim$ yields a [[Partisjon|partition]] of $S$, where $\overline{a} =\{x \in S|x \sim a\}$.

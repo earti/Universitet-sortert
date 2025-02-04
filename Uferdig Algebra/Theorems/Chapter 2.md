@@ -1,0 +1,1 @@
+Associativity of Composition: Let $S$ be a [[Mengde|set]] and let $f$, $g$, and $h$ be [[Funksjoner|functions]] mapping $S$ into $S$. Then $f \circ (g \circ h) = (f \circ g)\circ h$.

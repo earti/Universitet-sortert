@@ -1,0 +1,4 @@
+Every [[Generated cyclic subgroup|cyclic]] [[Group|group]] is [[Abelian group|abelian]].
+A [[Subgroup|subgroup]] of a [[Generated cyclic subgroup|cyclic]] [[Group|group]] is [[Generated cyclic subgroup|cyclic]].
+Let $G$ be a [[Generated cyclic subgroup|cyclic]] [[Group|group]] with [[Generator|generator]] $a$. If the [[Order of groups|order]] of $G$ is infinite, then $G$ is [[Isomorphism|isomorphic]] to $\langle\mathbb{Z},+\rangle$. If $G$ has finite order $n$, then $G$ is isomorphic to $\langle\mathbb{Z}_{n},+_{n}\rangle$.
+Let $G$ be a [[Generated cyclic subgroup|cyclic]] [[Group|group]] with $n$ elements and [[Generator|generated]] by $a$. Let $b \in G$ and let $b = a^{s}$. Then $b$ generates a cyclic [[Subgroup|subgroup]] $H$ of $G$ containing $n/d$ elements, where $d$ is the greatest common divisor of $n$ and $s$. Also, $a_{s} = a_{t}$ if and only if $\gcd(s,n) = \gcd(t,n)$.

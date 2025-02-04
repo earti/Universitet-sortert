@@ -1,0 +1,1 @@
+Suppose $\langle S,\ast\rangle$ has an [[Identitetselement|identity element]] $e$ for $\ast$. If $\phi : S \to S'$ is an [[Isomorphism|isomorphism]] of $\langle S,\ast\rangle$ with $\langle S',\ast'\rangle$, then $\phi(e)$ is an identity element for the [[Binary operation|binary operation]] $\ast'$ on $S'$.
