@@ -1,0 +1,4 @@
+Let $H$ be a [[Subgroup|subgroup]] of $G$. Let the [[Relasjon|relation]] $\sim_{L}$ be defined on $G$ by $a \sim_{L} b$ if and only if $a^{−1}b \in H$. Let $\sim_{R}$ be defined by $a \sim_{R} b$ if and only if $ab^{−1} \in H$. Then $\sim_{L}$ and $\sim_{R}$ are both [[Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens|equivalence relations]] on $G$.
+(Theorem of Lagrange) Let $H$ be a [[Subgroup|subgroup]] of a finite [[Group|group]] $G$. Then the [[Order of groups|order]] of $H$ is a divisor of the order of $G$.
+The [[Order of groups|order]] of an element of a finite [[Group|group]] divides the order of the group.
+Suppose $H$ and $K$ are [[Subgroup|subgroups]] of a [[Group|group]] $G$ such that $K \leq H \leq G$, and suppose $(H : K)$ and $(G: H)$ are both finite. Then $(G : K)$ is finite, and $(G : K) = (G : H)(H : K)$.

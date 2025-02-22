@@ -81,12 +81,14 @@
             "id": "1a0f1ac63e69379f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Uferdig Algebra/Theorems/Chapter 10.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Chapter 10"
             }
           }
         ],
@@ -259,8 +261,11 @@
   },
   "active": "1a0f1ac63e69379f",
   "lastOpenFiles": [
-    "Uferdig Algebra/Theorems/Chapter 6.md",
+    "Uferdig Algebra/Theorems/Chapter 9.md",
+    "Uferdig Algebra/Theorems/Chapter 10.md",
+    "Uferdig Algebra/Theorems/Chapter 8.md",
     "Uferdig Algebra/Theorems/Chapter 7.md",
+    "Uferdig Algebra/Theorems/Chapter 6.md",
     "Uferdig Algebra/Chapter 14/Factor group.md",
     "Uferdig Algebra/Chapter 14/Automorphism and conjugation.md",
     "Uferdig Algebra/Theorems/Chapter 5.md",
@@ -292,9 +297,6 @@
     "Uferdig Algebra/Chapter 9/Even and odd permutations.md",
     "Uferdig Algebra/Chapter 9/Transposition.md",
     "Uferdig Algebra/Chapter 9/Cycle and cycle length.md",
-    "Uferdig Algebra/Chapter 9/Orbit.md",
-    "Uferdig Algebra/Chapter 8/Regular representation x.md",
-    "Diskret matte/Bevis/Sunnhet og kompletthet.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

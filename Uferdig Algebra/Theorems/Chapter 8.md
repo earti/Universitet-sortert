@@ -1,0 +1,2 @@
+Let $A$ be a nonempty [[Mengde|set]], and let $S_{A}$ be the collection of all [[Permutasjon|permutations]] of $A$. Then $S_{A}$ is a [[Group|group]] under permutation multiplication.
+(Cayley’s Theorem) Every [[Group|group]] is [[Isomorphism|isomorphic]] to a group of [[Permutasjon|permutations]].
