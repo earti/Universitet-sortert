@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "Chapter 7"
             }
+          },
+          {
+            "id": "1a0f1ac63e69379f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -245,7 +257,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1226cfb24c01289d",
+  "active": "1a0f1ac63e69379f",
   "lastOpenFiles": [
     "Uferdig Algebra/Theorems/Chapter 6.md",
     "Uferdig Algebra/Theorems/Chapter 7.md",
