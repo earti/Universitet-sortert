@@ -1,4 +1,4 @@
 Let $G = H \times K$ be the direct product of [[Group|groups]] $H$ and $K$. Then $\overline{H} =\{(h,e)|h \in H\}$ is a normal [[Subgroup|subgroup]] of $G$. Also $G/\overline{H}$ is [[Isomorphism|isomorphic]] to $K$ in a natural way. Similarly, $G /\overline{K} \simeq H$ in a natural way.
 A [[Factor group|factor group]] of a [[Cycle and cycle length|cyclic]] [[Group|group]] is cyclic.
 The alternating [[Group|group]] $A_{n}$ is simple for $n \geq 5$.
-Let $\phi : G \to G$ be a grouphomomorphism.If N isanormalsubgroupof G,thenφ[N] is a normal subgroup of φ[G]. Also, if N is a normal subgroup of φ[G], then φ−1[N] is a normal subgroup of G.
+Let $\phi : G \to G$ be a [[Group|group]]homomorphism.If N isanormalsubgroupof G,thenφ[N] is a normal subgroup of φ[G]. Also, if N is a normal subgroup of φ[G], then φ−1[N] is a normal subgroup of G.
