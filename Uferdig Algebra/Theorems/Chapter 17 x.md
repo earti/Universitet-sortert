@@ -1,0 +1,1 @@
+(Burnside’s Formula) Let $G$ be a finite [[Group|group]] and $X$ a finite $G$-set. If $r$ is the number of [[Orbit|orbits]] in $X$ under $G$, then $r \cdot|G|=\sum\limits\limits_{g\in G} |X_{g}|$.
