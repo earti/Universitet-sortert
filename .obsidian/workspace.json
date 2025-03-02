@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig Algebra/Theorems/Chapter 36 x.md",
+                "file": "Uferdig Algebra/Chapter 15 x/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 36 x"
+              "title": "Untitled"
             }
           }
         ],
@@ -261,9 +261,10 @@
   },
   "active": "1a0f1ac63e69379f",
   "lastOpenFiles": [
+    "Uferdig Algebra/Theorems/Chapter 36 x.md",
+    "Uferdig Algebra/Chapter 15 x/Untitled.md",
     "Uferdig Algebra/Theorems/Chapter 17 x.md",
     "Uferdig Algebra/Theorems/Chapter 16 x.md",
-    "Uferdig Algebra/Theorems/Chapter 36 x.md",
     "Uferdig Algebra/Theorems/Chapter 15 x.md",
     "Uferdig Algebra/Chapter 2/Closure.md",
     "Uferdig Algebra/Chapter 2/Binary operation.md",
@@ -296,7 +297,6 @@
     "Uferdig Algebra/Chapter 13/Homomorphism.md",
     "Uferdig Algebra/Chapter 8/Image.md",
     "Uferdig Algebra/Chapter 13/Image and range of homomorphism.md",
-    "Uferdig Algebra/Chapter 13/Kernel of homomorphism.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
