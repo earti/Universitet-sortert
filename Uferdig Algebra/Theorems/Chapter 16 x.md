@@ -3,16 +3,3 @@ Let $X$ be a [[Actions|G-set]]. Then $G_{x}$ is a [[Subgroup|subgroup]] of $G$ f
 Let $X$ be a [[Actions|G-set]]. For $x_{1},x_{2} \in X$, let $x_{1} \sim x_{2}$ if and only if there exists $g \in G$ such that $gx_{1} = x_{2}$. Then $\sim$ is an [[Diskret matte/Relasjoner/Relasjonstyper/Ekvivalens|equivalence relation]] on $X$.
 Let $X$ be a $G$-set and let $x \in X$. Then $|G_{x}|=(G : G_{x})$. If $|G|$ is finite, then $|G_{x}|$ is a divisor of $|G|$.
 
-H225 Meget brannfarlig væske og damp.
-
-H319 Gir alvorlig øyeirritasjon.
-
-H336 Kan forårsake døsighet eller svimmelhet.
-
-EUH066 Gjentatt eksponering kan gi tørr eller sprukket hud
-
-Aceton fordamper, og ettersom dampen er brennbar vil man ikke ha dampen i rommet man jobber.
-
-Den reagerer sterkt med syre og produserer hydrogensulfid, et svært giftig stoff
-
-Ettersom vi bruker en stor del aceton, legges det i en samlebeholder etter eksperimentet, istedet for å gå i vasken.
