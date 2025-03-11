@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uferdig Algebra/Chapter 18/Homomorphism i.md",
+                "file": "Uferdig Algebra/Chapter 19/Characteristic of a ring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homomorphism i"
+              "title": "Characteristic of a ring"
             }
           }
         ],
@@ -261,8 +261,16 @@
   },
   "active": "1a0f1ac63e69379f",
   "lastOpenFiles": [
+    "Uferdig Algebra/Chapter 19/Integral domain.md",
+    "Uferdig Algebra/Chapter 19/Characteristic of a ring.md",
+    "Uferdig Algebra/Chapter 19/Divisors of 0.md",
+    "Uferdig Algebra/Chapter 18/Unit, division ring, field.md",
+    "Uferdig Algebra/Chapter 18/Unity.md",
+    "Uferdig Algebra/Chapter 18/Isomorphism of a ring.md",
+    "Uferdig Algebra/Chapter 18/Homomorphism of a ring.md",
+    "Uferdig Algebra/Chapter 13/Homomorphism of a group.md",
+    "Uferdig Algebra/Chapter 5/Subgroup.md",
     "Uferdig Algebra/Chapter 18/Ring.md",
-    "Uferdig Algebra/Chapter 18/Homomorphism i.md",
     "Uferdig Algebra/Chapter 4/Group.md",
     "Uferdig Algebra/Chapter 8/Regular representation x.md",
     "Uferdig Algebra/Chapter 8/Permutation of group.md",
@@ -279,14 +287,6 @@
     "Uferdig Algebra/Theorems/Chapter 15 x.md",
     "Uferdig Algebra/Theorems/Untitled.md",
     "Uferdig Algebra/Chapter 36/Sylow p-subgroup.md",
-    "Uferdig Algebra/Chapter 36/Normalizer x.md",
-    "Uferdig Algebra/Chapter 36/p-group and p-subgroup.md",
-    "Uferdig Algebra/Chapter 14/Automorphism and conjugation.md",
-    "Uferdig Algebra/Chapter 13/Normal.md",
-    "Uferdig Algebra/Chapter 14/Factor group.md",
-    "Uferdig Algebra/Chapter 2/Closure.md",
-    "Uferdig Algebra/Chapter 2/Binary operation.md",
-    "Uferdig Algebra/Theorems/Chapter 14.md",
     "Uferdig Algebra/Theorems",
     "Uferdig Algebra/Chapter 37",
     "Uferdig Algebra/Chapter 36",

@@ -1,6 +1,6 @@
 Let $G = H \times K$ be the direct product of [[Group|groups]] $H$ and $K$. Then $\overline{H} =\{(h,e)|h \in H\}$ is a [[Normal|normal]] [[Subgroup|subgroup]] of $G$. Also $G/\overline{H}$ is [[Isomorphism|isomorphic]] to $K$ in a natural way. Similarly, $G /\overline{K} \simeq H$ in a natural way.
 A [[Factor group|factor group]] of a [[Cycle and cycle length|cyclic]] [[Group|group]] is cyclic.
 The alternating [[Group|group]] $A_{n}$ is simple for $n \geq 5$.
-Let $\phi : G \to G'$ be a [[Group|group]] [[Homomorphism|homomorphism]]. If $N$ is a [[Normal|normal]] [[Subgroup|subgroup]] of $G$, then $\phi[N]$ is a normal subgroup of $\phi[G]$. Also, if $N'$ is a normal subgroup of $\phi[G]$, then $\phi^{-1}[N']$ is a normal subgroup of $G$.
+Let $\phi : G \to G'$ be a [[Group|group]] [[Homomorphism of a group|homomorphism]]. If $N$ is a [[Normal|normal]] [[Subgroup|subgroup]] of $G$, then $\phi[N]$ is a normal subgroup of $\phi[G]$. Also, if $N'$ is a normal subgroup of $\phi[G]$, then $\phi^{-1}[N']$ is a normal subgroup of $G$.
 $M$ is a maximal [[Normal|normal]] [[Subgroup|subgroup]] of $G$ if and only if $G/M$ is simple.
 Let $G$ be a [[Group|group]]. The [[Mengde|set]] of all commutators $aba^{−1}b^{−1}$ for $a,b \in G$ generates a [[Subgroup|subgroup]] $C$ (the commutator subgroup) of $G$. This subgroup $C$ is a [[Normal|normal]] subgroup of $G$. Furthermore, if $N$ is a normal subgroup of $G$, then $G/N$ is [[Abelian group|abelian]] if and only if $C \leq N$.
