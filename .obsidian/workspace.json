@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Characteristic of a ring"
             }
+          },
+          {
+            "id": "18578834a2e668f1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -259,7 +271,7 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "1a0f1ac63e69379f",
+  "active": "18578834a2e668f1",
   "lastOpenFiles": [
     "Uferdig Algebra/Chapter 19/Integral domain.md",
     "Uferdig Algebra/Chapter 19/Characteristic of a ring.md",
